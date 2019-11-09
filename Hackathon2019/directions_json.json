@@ -1,1890 +1,1865 @@
-{
-  "routes": [
-    {
-      "overview_polyline": {
-        "points": "gljmEh`vnUlAN?dDb@xAVtAThDGjDcAfAWJE\\FNVhGF~Bc@d@iBLwCFC~A?|@iBBGfBM~A{E?yAPMtEsC?cB?gMCgMP_YF{S?}G@qAT_B`BsE|EuHdKqCtC_@Hs@BAvBe@dGc@~FBzLWxCBrW?|D?`Fy@@g@KaD??|AgA@Ar@}@RwAAQH@dGcGDgJV{HjQGnl@?xEE|AoFCuN[qC?uHb@gKRaDAeA?@hDB|Qu@hD}E|K_ETwL?u@tEEl@?lAoA@EP}@@i@?sD?{NBmg@Pa]JsFLuD@mBA]~Cw@pHkBvQoBjZAzt@{JLqC^qBh@}@N{AR?`C?dIUzBkBtFwE`EeIv@_Db@aEtCwIxKmGxJcF~FuKzFgGfGeKzR{MtX{CxDaFjDwJ`CiJtAmPxAkCEOWsHQu`@Dy^DoG@Qb@@~Ca@pCuAj@sBhBaNbVwQp[qNfVci@z{@g[fh@aDjFuDhHqJlPeB|DOnCIhWNx_@@hV@~g@?vRc@rDgHtU_Qrj@sN|d@oGhRqDtM_CvGF`@sGjKaD~DaDfFeFjIgCpCmIfNkLbR}FfJue@lb@qb@x`@iJvKgD`EiEfEoSjSqTxTsKbK_CnBsFpJ_FdEkFbCwFxFaLjKo_@f^e^|\\uXl[aBfBs@`@_@ZA|@}BxBqAnA_AJ_EzAQj@ZHGn@a@nAoApD_FnNoPte@yHzTq@nBk@bCqG`R]~@?a@Ao@cApE_BrEq@pBg@xAs@?aB?{A?iDRkI@?vN?`N@bHQpD?`K@pHErGuD~K_JfXgTpn@wQth@aM|^cBhFgDGgFpAcIjBgLy@kWj@iJLoACc@v@mDbEaCxAyInBmKtBg@dBeB~FgH`TaF|QqFxYsCdO@nHkBpHyI`R}O|R{JlLyLnCgJdB_LZcFlA{J~E_FxLkJbYwBtGg@dFrBrT@hD_AxBiBdCsHzQkI|IeGlJsBvBoGpCyYtKaEpBqBdDo@|BqDxE}N~OkR`UoCrF@zI@r^Blm@Dpb@B~u@GrL?rJD|VBfp@@j^?fLyMBoONqBCg@ZIHq@b@?l@?jG@tE?|Ii@nAqD^{Fj@wCpE_Br@yCB{F|@qIp@eAu@w@wBuGsGoAC{B|@cBNaAbBcBrLqAzCcDp@cBvAuBTeDYc@eAZ_AxBq@l@o@Kg@c@[i@RaB\\iB^oBGqB_@_@wAj@aEBoAcEIExAkD|@aDbDyCZgCh@eAgC}@FqB_BoAwAm@s@oAlAeEhEw@`AmEzGyBnD}@`Bu@t@iDbGkBpCiAtA}EsAiBoAk@KcBkAaA]sDQ@O"
+[
+  {
+    "overview_polyline": {
+      "points": "gljmEh`vnUlAN?dDb@xAVtAThDGjDcAfAWJE\\FNVhGF~Bc@d@iBLwCFC~A?|@iBBGfBM~A{E?yAPMtEsC?cB?gMCgMP_YF{S?}G@qAT_B`BsE|EuHdKqCtC_@Hs@BAvBe@dGc@~FBzLWxCBrW?|D?`Fy@@g@KaD??|AgA@Ar@}@RwAAQH@dGcGDgJV{HjQGnl@?xEE|AoFCuN[qC?uHb@gKRaDAeA?@hDB|Qu@hD}E|K_ETwL?u@tEEl@?lAoA@EP}@@i@?sD?{NBmg@Pa]JsFLuD@mBA]~Cw@pHkBvQoBjZAzt@{JLqC^qBh@}@N{AR?`C?dIUzBkBtFwE`EeIv@_Db@aEtCwIxKmGxJcF~FuKzFgGfGeKzR{MtX{CxDaFjDwJ`CiJtAmPxAkCEOWsHQu`@Dy^DoG@Qb@@~Ca@pCuAj@sBhBaNbVwQp[qNfVci@z{@g[fh@aDjFuDhHqJlPeB|DOnCIhWNx_@@hV@~g@?vRc@rDgHtU_Qrj@sN|d@oGhRqDtM_CvGF`@sGjKaD~DaDfFeFjIgCpCmIfNkLbR}FfJue@lb@qb@x`@iJvKgD`EiEfEoSjSqTxTsKbK_CnBsFpJ_FdEkFbCwFxFaLjKo_@f^e^|\\uXl[aBfBs@`@_@ZA|@}BxBqAnA_AJ_EzAQj@ZHGn@a@nAoApD_FnNoPte@yHzTq@nBk@bCqG`R]~@?a@Ao@cApE_BrEq@pBg@xAs@?aB?{A?iDRkI@?vN?`N@bHQpD?`K@pHErGuD~K_JfXgTpn@wQth@aM|^cBhFgDGgFpAcIjBgLy@kWj@iJLoACc@v@mDbEaCxAyInBmKtBg@dBeB~FgH`TaF|QqFxYsCdO@nHkBpHyI`R}O|R{JlLyLnCgJdB_LZcFlA{J~E_FxLkJbYwBtGg@dFrBrT@hD_AxBiBdCsHzQkI|IeGlJsBvBoGpCyYtKaEpBqBdDo@|BqDxE}N~OkR`UoCrF@zI@r^Blm@Dpb@B~u@GrL?rJD|VBfp@@j^?fLyMBoONqBCg@ZIHq@b@?l@?jG@tE?|Ii@nAqD^{Fj@wCpE_Br@yCB{F|@qIp@eAu@w@wBuGsGoAC{B|@cBNaAbBcBrLqAzCcDp@cBvAuBTeDYc@eAZ_AxBq@l@o@Kg@c@[i@RaB\\iB^oBGqB_@_@wAj@aEBoAcEIExAkD|@aDbDyCZgCh@eAgC}@FqB_BoAwAm@s@oAlAeEhEw@`AmEzGyBnD}@`Bu@t@iDbGkBpCiAtA}EsAiBoAk@KcBkAaA]sDQ@O"
+    }, 
+    "warnings": [
+      "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
+    ], 
+    "bounds": {
+      "northeast": {
+        "lat": 34.1358801, 
+        "lng": -117.9189322
       }, 
-      "warnings": [
-        "Walking directions are in beta. Use caution \u2013 This route may be missing sidewalks or pedestrian paths."
-      ], 
-      "bounds": {
-        "northeast": {
-          "lat": 34.1358801, 
+      "southwest": {
+        "lat": 33.8086812, 
+        "lng": -118.3526961
+      }
+    }, 
+    "waypoint_order": [], 
+    "summary": "Telegraph Rd", 
+    "copyrights": "Map data \u00a92019", 
+    "legs": [
+      {
+        "distance": {
+          "text": "40.1 mi", 
+          "value": 64567
+        }, 
+        "traffic_speed_entry": [], 
+        "end_address": "100 Universal City Plaza, Universal City, CA 91608, USA", 
+        "via_waypoint": [], 
+        "start_address": "1313 Disneyland Dr, Anaheim, CA 92802, USA", 
+        "start_location": {
+          "lat": 33.8094801, 
           "lng": -117.9189322
         }, 
-        "southwest": {
-          "lat": 33.8086812, 
-          "lng": -118.3526961
-        }
-      }, 
-      "waypoint_order": [], 
-      "summary": "Telegraph Rd", 
-      "copyrights": "Map data \u00a92019", 
-      "legs": [
-        {
-          "distance": {
-            "text": "40.1 mi", 
-            "value": 64567
-          }, 
-          "traffic_speed_entry": [], 
-          "end_address": "100 Universal City Plaza, Universal City, CA 91608, USA", 
-          "via_waypoint": [], 
-          "start_address": "1313 Disneyland Dr, Anaheim, CA 92802, USA", 
-          "start_location": {
-            "lat": 33.8094801, 
-            "lng": -117.9189322
-          }, 
-          "steps": [
-            {
-              "html_instructions": "Head <b>south</b>", 
-              "distance": {
-                "text": "141 ft", 
-                "value": 43
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 33.8094801, 
-                "lng": -117.9189322
-              }, 
-              "polyline": {
-                "points": "gljmEh`vnUD?b@?b@??N"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 30
-              }, 
-              "end_location": {
-                "lat": 33.8090939, 
-                "lng": -117.919015
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> toward <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "394 ft", 
-                "value": 120
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8090939, 
-                "lng": -117.919015
-              }, 
-              "polyline": {
-                "points": "yijmEx`vnU?b@?`C?tA"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 86
-              }, 
-              "end_location": {
-                "lat": 33.8090914, 
-                "lng": -117.9202702
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> at <b>Tram Loading</b>", 
-              "distance": {
-                "text": "66 ft", 
-                "value": 20
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8090914, 
-                "lng": -117.9202702
-              }, 
-              "polyline": {
-                "points": "yijmEthvnUb@B"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 14
-              }, 
-              "end_location": {
-                "lat": 33.8089131, 
-                "lng": -117.9202943
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "138 ft", 
-                "value": 42
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8089131, 
-                "lng": -117.9202943
-              }, 
-              "polyline": {
-                "points": "uhjmExhvnULf@DT@H@L"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 31
-              }, 
-              "end_location": {
-                "lat": 33.8087859, 
-                "lng": -117.9207209
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "177 ft", 
-                "value": 54
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 33.8087859, 
-                "lng": -117.9207209
-              }, 
-              "polyline": {
-                "points": "}gjmEnkvnUFn@@h@DV"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 39
-              }, 
-              "end_location": {
-                "lat": 33.8087117, 
-                "lng": -117.9212925
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "328 ft", 
-                "value": 100
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 33.8087117, 
-                "lng": -117.9212925
-              }, 
-              "polyline": {
-                "points": "mgjmE`ovnUDv@?L@TA~@?P?NALAH"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 73
-              }, 
-              "end_location": {
-                "lat": 33.8087034, 
-                "lng": -117.922365
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "322 ft", 
-                "value": 98
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 33.8087034, 
-                "lng": -117.922365
-              }, 
-              "polyline": {
-                "points": "kgjmEvuvnUCLCJEFCFUTYVC?A??AA?A?A?A??@A?A?A?A@A@A??@A@A??@A@?@A??@?@A@?@?@?@?@A@?@?@@@?@?@?@?@@@?@@??@?@BB"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 70
-              }, 
-              "end_location": {
-                "lat": 33.8091686, 
-                "lng": -117.9230839
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> to stay on <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "98 ft", 
-                "value": 30
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8091686, 
-                "lng": -117.9230839
-              }, 
-              "polyline": {
-                "points": "ijjmEfzvnUKZB`@"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 21
-              }, 
-              "end_location": {
-                "lat": 33.8092094, 
-                "lng": -117.9233865
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "49 ft", 
-                "value": 15
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 33.8092094, 
-                "lng": -117.9233865
-              }, 
-              "polyline": {
-                "points": "qjjmEd|vnUIZ"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 10
-              }, 
-              "end_location": {
-                "lat": 33.809265, 
-                "lng": -117.9235299
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> to stay on <b>Downtown Drive</b>", 
-              "distance": {
-                "text": "479 ft", 
-                "value": 146
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.809265, 
-                "lng": -117.9235299
-              }, 
-              "polyline": {
-                "points": "{jjmE`}vnUNZLd@Fj@BZ?d@B\\Df@?h@AN"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 101
-              }, 
-              "end_location": {
-                "lat": 33.8090066, 
-                "lng": -117.9250482
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Downtown Disney</b>", 
-              "distance": {
-                "text": "89 ft", 
-                "value": 27
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8090066, 
-                "lng": -117.9250482
-              }, 
-              "polyline": {
-                "points": "iijmEpfwnUIDEDGFKP"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 20
-              }, 
-              "end_location": {
-                "lat": 33.8091906, 
-                "lng": -117.9252409
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> to stay on <b>Downtown Disney</b>", 
-              "distance": {
-                "text": "223 ft", 
-                "value": 68
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8091906, 
-                "lng": -117.9252409
-              }, 
-              "polyline": {
-                "points": "mjjmEvgwnUaA@K@K@OFMD"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 57
-              }, 
-              "end_location": {
-                "lat": 33.8097948, 
-                "lng": -117.9253369
-              }
-            }, 
-            {
-              "html_instructions": "Continue onto <b>Passenger Drop-Off</b>", 
-              "distance": {
-                "text": "489 ft", 
-                "value": 149
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 33.8097948, 
-                "lng": -117.9253369
-              }, 
-              "polyline": {
-                "points": "enjmEjhwnUiC@?n@Cn@?P?j@"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 104
-              }, 
-              "end_location": {
-                "lat": 33.8104981, 
-                "lng": -117.9261389
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 159
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8104981, 
-                "lng": -117.9261389
-              }, 
-              "polyline": {
-                "points": "srjmEjmwnU_B@I@CDCH?`@?t@?v@Mf@E?"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 118
-              }, 
-              "end_location": {
-                "lat": 33.811166, 
-                "lng": -117.9271645
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> toward <b>Magic Way</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 174
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.811166, 
-                "lng": -117.9271645
-              }, 
-              "polyline": {
-                "points": "yvjmEvswnUuE?gA??PM?C?M?"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 140
-              }, 
-              "end_location": {
-                "lat": 33.8127609, 
-                "lng": -117.927251
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Magic Way</b>", 
-              "distance": {
-                "text": "348 ft", 
-                "value": 106
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8127609, 
-                "lng": -117.927251
-              }, 
-              "polyline": {
-                "points": "w`kmEhtwnU?tE"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 84
-              }, 
-              "end_location": {
-                "lat": 33.8127621, 
-                "lng": -117.9283156
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>S Walnut St</b>", 
-              "distance": {
-                "text": "1.1 mi", 
-                "value": 1691
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8127621, 
-                "lng": -117.9283156
-              }, 
-              "polyline": {
-                "points": "w`kmE~zwnU_B?s@?iA@KAG?E?IAI?GAE?EAG?I?mK@_@?M?kA@M?OA}@?a@@M?cA?Q?E?Q?MBMHS@c@?]?O?k@?U@aA?M?{@?{A?M?iC@O?mC@C?O?mC@O?sA@wA?eA?qG@M?iAAq@AM?qD@S?iAAM@_ABQP"
-              }, 
-              "duration": {
-                "text": "21 mins", 
-                "value": 1270
-              }, 
-              "end_location": {
-                "lat": 33.8278959, 
-                "lng": -117.928553
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>left</b> onto <b>S Manchester Ave</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 634
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-left", 
-              "start_location": {
-                "lat": 33.8278959, 
-                "lng": -117.928553
-              }, 
-              "polyline": {
-                "points": "k_nmEl|wnUkAnASPQR}A~AyAzAILu@|@q@|@cB|BiBjCSTW^KHKFe@j@MLGFQJE@GBE@K@]BU?"
-              }, 
-              "duration": {
-                "text": "8 mins", 
-                "value": 474
-              }, 
-              "end_location": {
-                "lat": 33.8321416, 
-                "lng": -117.9329247
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Lincoln Ave</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 580
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8321416, 
-                "lng": -117.9329247
-              }, 
-              "polyline": {
-                "points": "{ynmEvwxnU?h@AlAGnAGz@KjAIl@Ef@YxCAd@AV?FA|@?Z?dB?P@vA@bB@d@?JAH?FEJCHO??HBzA"
-              }, 
-              "duration": {
-                "text": "7 mins", 
-                "value": 422
-              }, 
-              "end_location": {
-                "lat": 33.8326191, 
-                "lng": -117.9391025
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>Lincoln Ave</b>", 
-              "distance": {
-                "text": "0.3 mi", 
-                "value": 560
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 33.8326191, 
-                "lng": -117.9391025
-              }, 
-              "polyline": {
-                "points": "{|nmEj~ynUC^AP?T@bA?h@@nA?V@r@?t@@z@?TAJ?TAtC@PBnB?jD?P?`F"
-              }, 
-              "duration": {
-                "text": "7 mins", 
-                "value": 426
-              }, 
-              "end_location": {
-                "lat": 33.8325961, 
-                "lng": -117.945117
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b>", 
-              "distance": {
-                "text": "479 ft", 
-                "value": 146
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8325961, 
-                "lng": -117.945117
-              }, 
-              "polyline": {
-                "points": "w|nmE~c{nUy@@UKQ?sC?M??H"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 103
-              }, 
-              "end_location": {
-                "lat": 33.8338993, 
-                "lng": -117.9451164
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b>", 
-              "distance": {
-                "text": "128 ft", 
-                "value": 39
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8338993, 
-                "lng": -117.9451164
-              }, 
-              "polyline": {
-                "points": "{domE~c{nU?rA"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 30
-              }, 
-              "end_location": {
-                "lat": 33.8339023, 
-                "lng": -117.9455442
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b>", 
-              "distance": {
-                "text": "266 ft", 
-                "value": 81
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8339023, 
-                "lng": -117.9455442
-              }, 
-              "polyline": {
-                "points": "{domErf{nUgA@Ar@DR"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 60
-              }, 
-              "end_location": {
-                "lat": 33.834245, 
-                "lng": -117.9459053
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 218
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.834245, 
-                "lng": -117.9459053
-              }, 
-              "polyline": {
-                "points": "_gomE|h{nUcA?_@?w@AE?C@C@CDAF?@BlD?lA"
-              }, 
-              "duration": {
-                "text": "3 mins", 
-                "value": 159
-              }, 
-              "end_location": {
-                "lat": 33.8350988, 
-                "lng": -117.9472602
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>N Crescent Way</b>", 
-              "distance": {
-                "text": "0.9 mi", 
-                "value": 1483
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8350988, 
-                "lng": -117.9472602
-              }, 
-              "polyline": {
-                "points": "klomEjq{nUO?M?e@?{@@[?a@?q@BS?_@?iA?cB@uB?I?KBEFGHIRaBrD}@rB_ChFEJEJCFAD?D?FAN?jB@~F?fF?xFAHAh@Aj@AX?nC?p@?P?hA?jDAF?P@R?rA?L?X?P?\\Ch@?NAR?N"
-              }, 
-              "duration": {
-                "text": "18 mins", 
-                "value": 1088
-              }, 
-              "end_location": {
-                "lat": 33.8398527, 
-                "lng": -117.9591944
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>N Brookhurst St</b>", 
-              "distance": {
-                "text": "0.6 mi", 
-                "value": 1025
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8398527, 
-                "lng": -117.9591944
-              }, 
-              "polyline": {
-                "points": "ajpmE|{}nUeA?_B?Y?o@CQ?{AB{DDMA]E{AO[Eg@GKAUCC?GASAO@M?q@Fs@D[Ba@DS@K@G?M@s@DC?E?G?UBM?W@K@A?W@A?M@w@Bc@B}@BQ@O?Q@I?U?a@AM?m@@Q?i@?_@?}@AY?eA?"
-              }, 
-              "duration": {
-                "text": "13 mins", 
-                "value": 806
-              }, 
-              "end_location": {
-                "lat": 33.8489627, 
-                "lng": -117.9592992
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>W Falmouth Ave</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 670
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8489627, 
-                "lng": -117.9592992
-              }, 
-              "polyline": {
-                "points": "_crmEr|}nU@hD@xE@bK?j@Eb@g@jAGLiAfCqArCw@rBIL"
-              }, 
-              "duration": {
-                "text": "8 mins", 
-                "value": 480
-              }, 
-              "end_location": {
-                "lat": 33.8503068, 
-                "lng": -117.9660957
-              }
-            }, 
-            {
-              "html_instructions": "Continue straight onto <b>N Minot St</b>", 
-              "distance": {
-                "text": "0.2 mi", 
-                "value": 349
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "straight", 
-              "start_location": {
-                "lat": 33.8503068, 
-                "lng": -117.9660957
-              }, 
-              "polyline": {
-                "points": "mkrmEbg_oUIHIFK@_D@iLBMC"
-              }, 
-              "duration": {
-                "text": "4 mins", 
-                "value": 251
-              }, 
-              "end_location": {
-                "lat": 33.8534677, 
-                "lng": -117.9662096
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>W Coronet Ave</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 166
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8534677, 
-                "lng": -117.9662096
-              }, 
-              "polyline": {
-                "points": "e_smExg_oUg@dDMn@E\\?N?lA"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 121
-              }, 
-              "end_location": {
-                "lat": 33.8537746, 
-                "lng": -117.9678969
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>N Gilbert St</b>", 
-              "distance": {
-                "text": "1.3 mi", 
-                "value": 2040
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8537746, 
-                "lng": -117.9678969
-              }, 
-              "polyline": {
-                "points": "aasmEjr_oUoA@E??P_@?]@C?A?A?a@?K?C?A?aD?_B?O?yA@M?_@?u@@O?}D?uA@W?g@?e@?Q?[?i@BU@M?cA@M?uLBM?yCBM?wG?eE@M?}@?M?mA@M?w@?}A?iB@q@?oA@_A?O?{@?k@@K@S@M@g@Fk@DM?q@?c@CY?g@?i@?_A@c@?_BAM?"
-              }, 
-              "duration": {
-                "text": "25 mins", 
-                "value": 1524
-              }, 
-              "end_location": {
-                "lat": 33.8721218, 
-                "lng": -117.9682514
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Artesia Ave</b>", 
-              "distance": {
-                "text": "1.1 mi", 
-                "value": 1712
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8721218, 
-                "lng": -117.9682514
-              }, 
-              "polyline": {
-                "points": "wsvmEpt_oUE`@W|BIv@OrAGl@UvBOvAm@|FWbCU|B_BjOEd@C^CPA`@?b@?~@?`C@tA?~A?vFBlG?xB?`C?j@?p@@dD?vD@^?rA?p@?rBI\\AN"
-              }, 
-              "duration": {
-                "text": "21 mins", 
-                "value": 1245
-              }, 
-              "end_location": {
-                "lat": 33.8736594, 
-                "lng": -117.9865836
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Dale St</b>", 
-              "distance": {
-                "text": "289 ft", 
-                "value": 88
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.8736594, 
-                "lng": -117.9865836
-              }, 
-              "polyline": {
-                "points": "k}vmEbgcoUw@?{A?"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 73
-              }, 
-              "end_location": {
-                "lat": 33.8744026, 
-                "lng": -117.9865819
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>left</b> to stay on <b>Dale St</b>", 
-              "distance": {
-                "text": "0.2 mi", 
-                "value": 372
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-left", 
-              "start_location": {
-                "lat": 33.8744026, 
-                "lng": -117.9865819
-              }, 
-              "polyline": {
-                "points": "_bwmEbgcoUKHIB]AgA?gA?c@@U?M@G?YBC?]HWFQFQDOHMBKCYJQFIDG@IBQBYDG@sAP"
-              }, 
-              "duration": {
-                "text": "5 mins", 
-                "value": 283
-              }, 
-              "end_location": {
-                "lat": 33.8776257, 
-                "lng": -117.9871951
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Malvern Ave</b>", 
-              "distance": {
-                "text": "0.8 mi", 
-                "value": 1232
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.8776257, 
-                "lng": -117.9871951
-              }, 
-              "polyline": {
-                "points": "evwmE~jcoU?|@?bA@x@AtA@dCAn@C`@CZEXGb@If@GRI^Sl@Uh@MZILMVINa@h@QTg@d@[Va@Xe@RMDu@Rc@JKBWDc@DiABY@_A@O?]B]BA?QBUF]HKDsAl@ABULABe@^_@^MPIJg@p@KN{@|@CDKJe@^QT_@d@YZMNKLc@f@ETGRORMN"
-              }, 
-              "duration": {
-                "text": "15 mins", 
-                "value": 922
-              }, 
-              "end_location": {
-                "lat": 33.8845506, 
-                "lng": -117.9956383
-              }
-            }, 
-            {
-              "html_instructions": "Continue onto <b>S La Mirada Blvd</b><div style=\"font-size:0.9em\">Pass by Wendy's (on the right in 1.1&nbsp;mi)</div>", 
-              "distance": {
-                "text": "2.6 mi", 
-                "value": 4260
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 33.8845506, 
-                "lng": -117.9956383
-              }, 
-              "polyline": {
-                "points": "maymEv_eoUm@~@GLQXY`@s@hAoAnBYd@w@pAa@n@STSTQPUTUPc@VGDMFYNWLA@QHYNWLKDmAh@MH[NSJm@`@_@Ra@XUPCBMJKH_@ZURURQRUR?@[\\[^STORCDORY`@GHSZU^S\\S^Yj@Ud@CDS`@]t@eAxBQ^GL{@hBkAdCwAvCkAbCmCxF]p@]r@OXQXOVOTSXY\\YZIJSTUTk@f@URQLCBa@Xa@Va@Tc@TYLc@Po@Tk@Pa@H}@PkBXQBA?QB}@Lg@Hu@JiBXaANMBiANuARkDf@M@m@Dg@Bk@?qA@wB?E?GCEAIENIGOMFM?E?M@SM_A?_CCo@?MAgBCo@?u@?{@?O?oA@S@sD?eA?y@@O?cB?W?{A@_C@[?kB?M?qA@cA?gA@S?w@?qB@iA?cB@O?iC?Y?S?_BAM?mA?{@?c@?M?C?w@@Q?E?Q@?N"
-              }, 
-              "duration": {
-                "text": "55 mins", 
-                "value": 3278
-              }, 
-              "end_location": {
-                "lat": 33.9172914, 
-                "lng": -118.0118417
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>E Imperial Hwy</b>", 
-              "distance": {
-                "text": "499 ft", 
-                "value": 152
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.9172914, 
-                "lng": -118.0118417
-              }, 
-              "polyline": {
-                "points": "an_nE~dhoU?H?F?P?tA@f@?N?n@?tA"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 135
-              }, 
-              "end_location": {
-                "lat": 33.9172822, 
-                "lng": -118.0133994
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "2.4 mi", 
-                "value": 3884
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.9172822, 
-                "lng": -118.0133994
-              }, 
-              "polyline": {
-                "points": "_n_nEvnhoUQDODIBSF]NYNKFKHKHQLIFMLGF]`@KLQVIJyAdCYj@aAdBc@t@i@dA}@bBCBINEHm@dAILIPa@t@OX{@zAUb@U`@U`@k@bAU`@aAfBgApBINo@hAk@bA_BvC_@n@SDCFYh@U^KRKNCFKN[j@c@x@k@bAOZc@p@ILuAzB}@zAeAbBU^U^EHQVa@p@W`@mAnBCDgAfBg@v@}@|AKNGNyA|BS\\yBlDi@|@eBpCw@pAi@|@IJgC`EGLS\\m@~@SZOV]h@m@bAk@~@aBlCKNGL_AzAwBfDWb@EFSZSZq@jAGHCDGL[d@a@r@U`@GHi@|@Yb@U\\OTKPILi@`Aw@~AiBpCINEFINw@hAOPe@n@?D?LS\\ORKTEFILGJ]h@i@|@e@v@m@~@s@hALLEHu@pAIJILQZk@`A"
-              }, 
-              "duration": {
-                "text": "49 mins", 
-                "value": 2913
-              }, 
-              "end_location": {
-                "lat": 33.9395631, 
-                "lng": -118.0455351
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>left</b> to stay on <b>Telegraph Rd</b><div style=\"font-size:0.9em\">Pass by Del Taco (on the left in 2.8&nbsp;mi)</div>", 
-              "distance": {
-                "text": "3.0 mi", 
-                "value": 4862
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-left", 
-              "start_location": {
-                "lat": 33.9395631, 
-                "lng": -118.0455351
-              }, 
-              "polyline": {
-                "points": "gycnErwnoUAP?BA@INi@~@o@`AKPGJINm@`AU^a@n@{@rAMTOV[h@ILMRIPEJSf@GZENAJCJANALAH?FA^Af@?p@@vB?Z?\\?hB?P?~@?p@?t@?vB?H?xA?DA@IH?R?VL\\?fB@xA?h@?b@?N?fCAT?R?zC?P?fB?P@hC?~A?T?|@?P?D?P@tBAbC?h@@j@?`@?R?J?h@?j@?tA?l@?x@AtAAvA?\\?T?J?T?\\B`C?b@?~D@pL@bAArA?R?~B@fD?`AAvA?hB?@@p@AVCf@C\\CP?FCPIb@ABGXCHEPENGVGN_@lAOf@Od@Of@i@dBENGNENc@tAm@nBg@`Bs@zBo@vBs@vBqAjE_BfFENEJENk@jBELSp@_@hAi@dBw@dCCFW|@i@|AGRm@nBkAzDENg@~A{@rCy@nCCD}@tCUt@i@fBENEJENOd@EPSl@K^Wx@GPOb@[z@Od@Sp@s@`CGLWz@GNELITMDGVSn@IVGTGTc@tAWv@Sn@GT"
-              }, 
-              "duration": {
-                "text": "1 hour 1 min", 
-                "value": 3688
-              }, 
-              "end_location": {
-                "lat": 33.9508426, 
-                "lng": -118.0946856
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>left</b> to stay on <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 208
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-left", 
-              "start_location": {
-                "lat": 33.9508426, 
-                "lng": -118.0946856
-              }, 
-              "polyline": {
-                "points": "w_fnExjxoUCTCLADAHK`@ITAHK\\Sl@ELQj@Un@KTMZWn@"
-              }, 
-              "duration": {
-                "text": "3 mins", 
-                "value": 150
-              }, 
-              "end_location": {
-                "lat": 33.9516575, 
-                "lng": -118.0966826
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>True Ave</b>", 
-              "distance": {
-                "text": "66 ft", 
-                "value": 20
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.9516575, 
-                "lng": -118.0966826
-              }, 
-              "polyline": {
-                "points": "{dfnEfwxoUPRIL"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 15
-              }, 
-              "end_location": {
-                "lat": 33.9516211, 
-                "lng": -118.0968457
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "0.2 mi", 
-                "value": 245
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.9516211, 
-                "lng": -118.0968457
-              }, 
-              "polyline": {
-                "points": "sdfnEhxxoUuBfD}CbF"
-              }, 
-              "duration": {
-                "text": "3 mins", 
-                "value": 181
-              }, 
-              "end_location": {
-                "lat": 33.9530024, 
-                "lng": -118.0988282
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Songfest Dr</b>", 
-              "distance": {
-                "text": "69 ft", 
-                "value": 21
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 33.9530024, 
-                "lng": -118.0988282
-              }, 
-              "polyline": {
-                "points": "gmfnEtdyoUUIIL"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 15
-              }, 
-              "end_location": {
-                "lat": 33.9531593, 
-                "lng": -118.0988494
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "0.3 mi", 
-                "value": 516
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 33.9531593, 
-                "lng": -118.0988494
-              }, 
-              "polyline": {
-                "points": "gnfnExdyoU_A|AaA|A_@l@[f@GJW`@U^ILMRW`@GJeAdBSXWb@o@dAOVILa@n@ILMEc@n@MTGH"
-              }, 
-              "duration": {
-                "text": "7 mins", 
-                "value": 395
-              }, 
-              "end_location": {
-                "lat": 33.95618, 
-                "lng": -118.1030511
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>Telegraph Rd</b><div style=\"font-size:0.9em\">Pass by Carl's Jr (on the right in 4.7&nbsp;mi)</div>", 
-              "distance": {
-                "text": "4.8 mi", 
-                "value": 7662
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 33.95618, 
-                "lng": -118.1030511
-              }, 
-              "polyline": {
-                "points": "cagnE`_zoUOHMLW`@eAfBw@lA_@n@ILYd@U`@kB|CILYf@u@hAILo@bAQZYb@u@jAOVKNMTeAdBS\\KNOVQVMPIPMTKLOPKLEHIN[d@m@fAKNEHKNU^_@j@EDILKNOPKJKFEDURQLOLETKH[X_CnBSNa@\\_GdFi@d@KH_Az@]Zo@j@IHa@\\a@\\k@h@mAfAQLML]Zq@l@KHm@f@iA~@IHe@`@URMJ_@\\i@f@uAnA_Ax@[X_@Ze@b@KHo@j@g@d@aAz@KHiA`AKJ_@Zo@j@WRi@l@CBsBpB_A`As@v@UVED[Z?@[\\A?WXe@j@EB{@x@SPONc@f@IJc@j@OVW`@WZW^EDGHMJq@r@KJGFFLEDUTq@r@[ZaA~@s@p@CDKHEF]\\GFWVSRg@h@mAjA_A|@cBbBo@l@CBi@h@c@`@YXi@d@MJSPu@x@q@v@QP_@^EDYVGHcAbAQPcAbA{C`DGD}@|@}A~Ao@n@i@h@GFCDi@h@cA`AmAlA}@z@[Xa@^aA~@a@Za@`@a@f@IKCBYX[XMNCBGFQRW^_@p@QZcAtB]r@IPk@r@i@j@KJCDKJy@v@WRc@Zc@R[Ju@XC@}@\\c@VQJQJOLy@r@MJy@z@_@^URONENi@h@OBKJ_@^KHo@n@ONQP_@\\w@t@IJ_@\\_@^CBQNeAdAIF{DvDa@RCBOJOLsBlBMJOLgAbACRKHWXUTURq@n@OLe@d@[Xa@`@]ZMNEPm@j@OB[ZIHKJIHaA~@[ZWRWTIH}@|@_@ZiAdA}CtCKJoDfDa@`@KJiAfAWTIHkCbCuAnAIHsAtAkBtB_DnDWXEDaApAKLm@r@OPsCdDe@h@UXQFKFo@x@uA`BKJUTm@p@MNONIJWXGF"
-              }, 
-              "duration": {
-                "text": "1 hour 36 mins", 
-                "value": 5759
-              }, 
-              "end_location": {
-                "lat": 34.0083069, 
-                "lng": -118.1568009
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> toward <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "128 ft", 
-                "value": 39
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.0083069, 
-                "lng": -118.1568009
-              }, 
-              "polyline": {
-                "points": "}fqnE~ndpUIK?AA??@A?A@YX"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 28
-              }, 
-              "end_location": {
-                "lat": 34.0085197, 
-                "lng": -118.1568752
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> toward <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "79 ft", 
-                "value": 24
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.0085197, 
-                "lng": -118.1568752
-              }, 
-              "polyline": {
-                "points": "ghqnEnodpU@BRZIJ"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 18
-              }, 
-              "end_location": {
-                "lat": 34.0084565, 
-                "lng": -118.1571004
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 161
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.0084565, 
-                "lng": -118.1571004
-              }, 
-              "polyline": {
-                "points": "{gqnEzpdpUMPCD_@`@QBgAlAY\\WZOT"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 116
-              }, 
-              "end_location": {
-                "lat": 34.0094919, 
-                "lng": -118.1581991
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>S Atlantic Blvd</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 177
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.0094919, 
-                "lng": -118.1581991
-              }, 
-              "polyline": {
-                "points": "inqnEvwdpUO?I?O@[DIB_@Lg@RUHcA^EBO@QLHC[NFP"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 141
-              }, 
-              "end_location": {
-                "lat": 34.0109492, 
-                "lng": -118.1588902
-              }
-            }, 
-            {
-              "html_instructions": "Cross the road", 
-              "distance": {
-                "text": "131 ft", 
-                "value": 40
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 34.0109492, 
-                "lng": -118.1588902
-              }, 
-              "polyline": {
-                "points": "mwqnE`|dpU@B?D?TZK"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 47
-              }, 
-              "end_location": {
-                "lat": 34.0107993, 
-                "lng": -118.1589855
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "1.2 mi", 
-                "value": 1921
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.0107993, 
-                "lng": -118.1589855
-              }, 
-              "polyline": {
-                "points": "ovqnEt|dpUE^ANELCNOb@GLSj@i@zAKXENi@vAc@jAu@tBGNk@hBQf@Od@ELw@vBs@lBENcA~CGNmAdDGLiAbDEN{AlEGNmApDITGNADEJGNk@dBGPWv@[~@W|@INQd@eAxCGP[x@Sj@KXITAB?@A@AD?@EJ?@A?CJQh@A@ADCFADA@?@CFQd@?@A@CHIVUp@JDEN]`AOd@g@xAwA|D}@fCOb@Od@]~@?a@"
-              }, 
-              "duration": {
-                "text": "24 mins", 
-                "value": 1468
-              }, 
-              "end_location": {
-                "lat": 34.0188935, 
-                "lng": -118.1771108
-              }
-            }, 
-            {
-              "html_instructions": "Sharp <b>right</b> onto <b>E Olympic Blvd</b>", 
-              "distance": {
-                "text": "108 ft", 
-                "value": 33
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-sharp-right", 
-              "start_location": {
-                "lat": 34.0188935, 
-                "lng": -118.1771108
-              }, 
-              "polyline": {
-                "points": "aisnE|mhpUAg@?GM??P"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 34
-              }, 
-              "end_location": {
-                "lat": 34.0189697, 
-                "lng": -118.1769559
-              }
-            }, 
-            {
-              "html_instructions": "Cross the road", 
-              "distance": {
-                "text": "108 ft", 
-                "value": 33
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 34.0189697, 
-                "lng": -118.1769559
-              }, 
-              "polyline": {
-                "points": "qisnE~lhpU@z@"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 36
-              }, 
-              "end_location": {
-                "lat": 34.01896139999999, 
-                "lng": -118.1772637
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> onto <b>Telegraph Rd</b>", 
-              "distance": {
-                "text": "0.2 mi", 
-                "value": 289
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 34.01896139999999, 
-                "lng": -118.1772637
-              }, 
-              "polyline": {
-                "points": "oisnEznhpUw@bCGNu@tBOd@Qf@Od@a@jAg@xA"
-              }, 
-              "duration": {
-                "text": "4 mins", 
-                "value": 224
-              }, 
-              "end_location": {
-                "lat": 34.0201655, 
-                "lng": -118.1800048
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>S Downey Rd</b>", 
-              "distance": {
-                "text": "0.3 mi", 
-                "value": 422
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.0201655, 
-                "lng": -118.1800048
-              }, 
-              "polyline": {
-                "points": "aqsnE~_ipUs@?y@?g@?Y?aA?}@@cB??PG?{D@s@?M?mA?"
-              }, 
-              "duration": {
-                "text": "5 mins", 
-                "value": 324
-              }, 
-              "end_location": {
-                "lat": 34.0238902, 
-                "lng": -118.1801145
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Whittier Blvd</b><div style=\"font-size:0.9em\">Pass by 99 Cents Only Stores (on the right in 1.2&nbsp;mi)</div>", 
-              "distance": {
-                "text": "2.4 mi", 
-                "value": 3914
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.0238902, 
-                "lng": -118.1801145
-              }, 
-              "polyline": {
-                "points": "ihtnEt`ipU?vA@fC?PAdG?P?fB?`B?N?nB?xA?Z?N@tB?pB?P?h@?x@?z@?z@Q??P?pA@lAAP?bA?v@?p@?N?`@@z@?x@?X?P?P?r@?f@?t@?P?fB?n@?NAH?HCNAFGPOb@ENm@hBm@dBa@lAWr@K\\c@lA{@jCi@|AENWv@IRIXIT]~@Ob@_@jA_@fAELGRQj@KVGNAFKVELCHKZYx@M\\[bAEJKXOb@[`AO`@M`@M\\ENSh@Sl@]~@Ob@o@jBeBbFa@lAYz@_@`AGNQh@u@xBKZWr@CFENUj@K\\o@dBOf@M^GNWr@Ur@Ob@IR[|@ELYx@sA|DSl@EHENw@zBWr@Qd@M^GNENQf@IREJK\\a@hAGRGNADKXSj@KXEN[~@ABg@vAENQh@CFKVUr@ITENIRKXCFELM`@Sl@GNK\\Qh@M^Wt@c@nAOb@Od@KZIXQd@o@lB]dAENOd@"
-              }, 
-              "duration": {
-                "text": "51 mins", 
-                "value": 3058
-              }, 
-              "end_location": {
-                "lat": 34.0358068, 
-                "lng": -118.2189096
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>S Boyle Ave</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 193
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.0358068, 
-                "lng": -118.2189096
-              }, 
-              "polyline": {
-                "points": "yrvnEdsppUq@Ms@@c@@]@M@K@KBUHgBj@"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 128
-              }, 
-              "end_location": {
-                "lat": 34.0374715, 
-                "lng": -118.2191836
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>S Boyle Ave</b>", 
-              "distance": {
-                "text": "0.7 mi", 
-                "value": 1139
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 34.0374715, 
-                "lng": -118.2191836
-              }, 
-              "polyline": {
-                "points": "e}vnEztppU[DG@_@JOFODcAZE@UFa@LA@_@HSFMDA?WBG?c@BM@IDGBS?K?MAi@Ec@EE?[E]EMAiBQ[CQCe@EI?MAY?O?O?G?yBFc@@]@g@@O@{ADuADwCFcABm@BM?K?c@@Y@sA@M?_BBo@@k@@M?cA?KCAP"
-              }, 
-              "duration": {
-                "text": "15 mins", 
-                "value": 877
-              }, 
-              "end_location": {
-                "lat": 34.047674, 
-                "lng": -118.2198882
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>left</b> onto <b>Pleasant Ave</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 681
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-left", 
-              "start_location": {
-                "lat": 34.047674, 
-                "lng": -118.2198882
-              }, 
-              "polyline": {
-                "points": "}|xnEhyppUa@d@uA~Aw@~@KJSVUX[\\EDA@A@C@KBu@Pw@PMB[Hs@Nm@NyBd@IBQDk@Jc@JoCn@gAVMB{@RMBMECN"
-              }, 
-              "duration": {
-                "text": "9 mins", 
-                "value": 512
-              }, 
-              "end_location": {
-                "lat": 34.0531039, 
-                "lng": -118.2227355
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>East Cesar E Chavez Avenue</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 581
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.0531039, 
-                "lng": -118.2227355
-              }, 
-              "polyline": {
-                "points": "{~ynEbkqpUKVADADCHEPA@GRCH?BA@?@EPA@CLOd@GVENUt@CHIRENGNCHABe@rAQh@u@xBGPEJEHEJa@hAM\\Yr@ITKVOh@[dAQv@Mj@Wz@"
-              }, 
-              "duration": {
-                "text": "7 mins", 
-                "value": 436
-              }, 
-              "end_location": {
-                "lat": 34.055457, 
-                "lng": -118.2283413
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>right</b> to stay on <b>East Cesar E Chavez Avenue</b>", 
-              "distance": {
-                "text": "0.6 mi", 
-                "value": 931
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-right", 
-              "start_location": {
-                "lat": 34.055457, 
-                "lng": -118.2283413
-              }, 
-              "polyline": {
-                "points": "smznEbnrpUEDGHCFCJW~@[lAUx@GRSt@EPADCLe@rBMd@Op@WlAMl@CPAHCPE\\Mr@Ov@Kb@GXGZAHABKf@Kd@ETGT?@AFCLCJAFADCNCPIf@AHCNMp@Ot@CRWlAWpAMp@[pAWjACPCREVCJALAFCHCRALAH?T"
-              }, 
-              "duration": {
-                "text": "12 mins", 
-                "value": 711
-              }, 
-              "end_location": {
-                "lat": 34.0583498, 
-                "lng": -118.2378448
-              }
-            }, 
-            {
-              "html_instructions": "Continue onto <b>W Cesar Estrada Chavez Ave</b>", 
-              "distance": {
-                "text": "0.6 mi", 
-                "value": 954
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 34.0583498, 
-                "lng": -118.2378448
-              }, 
-              "polyline": {
-                "points": "u_{nEnitpU@`@@tB?B?R?r@?\\AVCb@CPIb@Ut@O`@CN?To@xAc@|@a@z@GLWj@i@jAO\\IN]v@INSd@Wj@Q`@Yl@KRGL[f@ILON_@b@WZk@t@KJIJc@h@Y^}AlBY^_@d@o@v@OL"
-              }, 
-              "duration": {
-                "text": "13 mins", 
-                "value": 786
-              }, 
-              "end_location": {
-                "lat": 34.0627363, 
-                "lng": -118.246312
-              }
-            }, 
-            {
-              "html_instructions": "Continue onto <b>Sunset Blvd</b><div style=\"font-size:0.9em\">Pass by Jack in the Box (on the left in 0.2&nbsp;mi)</div>", 
-              "distance": {
-                "text": "3.7 mi", 
-                "value": 5917
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 34.0627363, 
-                "lng": -118.246312
-              }, 
-              "polyline": {
-                "points": "c{{nEl~upU}ApBUZIJ_@d@u@|@s@~@i@n@_@d@IL_AjAIHA@GJEDIHKJQLQJMHEDKB_@HQDOBKBIBs@NcARoAVMBaARIBMBQBMDkAV}@RMBq@Ng@HcBTC?Q@]@}B@M@U?{@@kAFeAHM@SBY@E@Q@K@KBG@G@KBOFIBIDOHYLMHOFc@Ru@`@SJKFMDULMDQFo@TUJg@RQJMJKHSREDKLIJEFILQ\\EFGNEFSp@EJi@|AGNY|@M`@Yx@CHGN_@jAe@xAIRM^EJW|@]`AGLc@tAu@|BELm@hBg@zAGL_@jAELKZY|@GLIVM^KZa@pAKz@?F?R?J@P?HBRB\\BNLzABNLjAB\\Fr@BZD\\Db@JhADXN`BDf@BPB\\BXBT@V@P?PAVCTCNCNAHIVGNKREHGHMNQNQPOPMNKNGNGJKTSd@Qd@cAfC{AzDg@lAELi@lAU`@EHKPSVKLUXIHSR[XKHq@l@GDo@l@[\\MLY\\ORUXIL[d@AB]h@]l@W^QVW`@MPEHCFGHGJQVOVSVILEDOPKHGFc@^GF[Ra@TYLKFgA`@w@ZWHSHMD{@Zo@VMDq@VwBv@_@NcA^gC~@KDOFqAf@aBl@_@LOF{@Zc@Pg@P}@XMJMJCBQPED_@^MNQVGJINKRENM\\Od@AFENCLCJEPCHEHQd@GLU`@MPYZSRy@v@KHUPi@f@YVs@t@KJIHi@n@WXGFUVQTm@p@gAlAEHWXsA|Ag@n@YZIJYZUXg@j@IHm@l@ORe@j@GFKJOJGNUVCBKLW\\IHOPKNc@f@QTQT[\\IJCBKJUZWZQTKNUZS^S\\S\\Yf@S\\OT?^"
-              }, 
-              "duration": {
-                "text": "1 hour 16 mins", 
-                "value": 4530
-              }, 
-              "end_location": {
-                "lat": 34.0981341, 
-                "lng": -118.2871216
-              }
-            }, 
-            {
-              "html_instructions": "Slight <b>left</b> to stay on <b>Sunset Blvd</b><div style=\"font-size:0.9em\">Pass by Starbucks (on the left in 2.3&nbsp;mi)</div>", 
-              "distance": {
-                "text": "3.0 mi", 
-                "value": 4751
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-slight-left", 
-              "start_location": {
-                "lat": 34.0981341, 
-                "lng": -118.2871216
-              }, 
-              "polyline": {
-                "points": "ixboEn}}pUAp@?P@`A?X?p@?z@?P@z@?l@?hB?pC?tA?vA?\\?n@?V?P?xB?`@?p@?P?jA@T?`B?PAdB@`B?P?h@?b@?rA?f@?P?nB?N?J?|@?N@xA?ZArA@N?pB?H?l@?b@?N@bA?F?fA?J?h@?N?fB?P?^?^?V?J?Z?bA?f@?z@?P?l@?X?P?H?^?F?l@?J?j@?h@?d@?jA@b@?rA?p@?P@fA?P?l@?`@?L@Z?L?j@?P?jA?VAJ?dA?lA?rA?dA?N@nDAp@@fB?P?xA?jB?~@@h@?h@?|@?~@?`@?PA|A?z@@Z?b@?P?t@@V?l@?|@?P@zA?T@t@?jC?p@@|@?PMA?pB?T?B?h@?\\?xB?P?RAr@@jA?P?H?B?v@Ar@@d@?Z?L?J@nA?d@?P@nC@|B?N?j@?l@?^?nB?`@?P?P?j@?j@@r@?d@?vA?N?vA?\\?jA?T?|A?rA?J?P?h@?vA?N?dA@lA?r@?rA?N?r@?r@?jD?P?r@?vA?jB?P?pD?L?P?jA?Z@bA?N?tA?N?n@?fB?nA?P?^?t@?x@?x@?R"
-              }, 
-              "duration": {
-                "text": "1 hour 0 mins", 
-                "value": 3612
-              }, 
-              "end_location": {
-                "lat": 34.09801950000001, 
-                "lng": -118.338734
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>N Highland Ave</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 625
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.09801950000001, 
-                "lng": -118.338734
-              }, 
-              "polyline": {
-                "points": "swboE``hqUo@@W?O?cD@uA?_A@y@AM?]@e@?[@M?O?eA?[?Q?qB?S?I@SAe@?i@?[HM@_@@KAo@AUA"
-              }, 
-              "duration": {
-                "text": "9 mins", 
-                "value": 517
-              }, 
-              "end_location": {
-                "lat": 34.1035983, 
-                "lng": -118.3388079
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> toward <b>Franklin Ave</b>", 
-              "distance": {
-                "text": "43 ft", 
-                "value": 13
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.1035983, 
-                "lng": -118.3388079
-              }, 
-              "polyline": {
-                "points": "ozcoEp`hqU?N"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 11
-              }, 
-              "end_location": {
-                "lat": 34.1036005, 
-                "lng": -118.3388944
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> toward <b>Franklin Ave</b>", 
-              "distance": {
-                "text": "69 ft", 
-                "value": 21
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.1036005, 
-                "lng": -118.3388944
-              }, 
-              "polyline": {
-                "points": "ozcoE`ahqUe@?"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 16
-              }, 
-              "end_location": {
-                "lat": 34.1037931, 
-                "lng": -118.3388898
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> toward <b>Franklin Ave</b>", 
-              "distance": {
-                "text": "148 ft", 
-                "value": 45
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.1037931, 
-                "lng": -118.3388898
-              }, 
-              "polyline": {
-                "points": "u{coE`ahqUAH?@ABCBA?A@q@C"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 35
-              }, 
-              "end_location": {
-                "lat": 34.1041009, 
-                "lng": -118.3389831
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Franklin Ave</b>", 
-              "distance": {
-                "text": "0.3 mi", 
-                "value": 453
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.1041009, 
-                "lng": -118.3389831
-              }, 
-              "polyline": {
-                "points": "s}coErahqU?f@?\\?N?dA?jA?P?fB?fA?hA?p@@P?`B?j@?x@?`@?~@?P?F?X?x@O?@P"
-              }, 
-              "duration": {
-                "text": "6 mins", 
-                "value": 362
-              }, 
-              "end_location": {
-                "lat": 34.1041649, 
-                "lng": -118.3439476
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Outpost Dr</b>", 
-              "distance": {
-                "text": "1.4 mi", 
-                "value": 2261
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.1041649, 
-                "lng": -118.3439476
-              }, 
-              "polyline": {
-                "points": "_~coEt`iqU[BgAJc@Da@Fc@DiBPO@]Da@Dc@DM@G@G@CBCBEFEDADEHSb@EFQ`@GLGHGJIJILUVMFUNWNIDA?GBG@IBKBOBU@a@Ao@CK?G?E@G@G@QDQDUDE?E@S?O@[@O@UFYLUFI@M@U?_@?q@AYBUBc@Bg@LSDQHMDIBI@C?G@GAQAICICSMGEIGGKAAACEGEKEMCOGSGOEMKSQUOOu@k@[Ya@c@OOY]S]GIEEMMGGMGGEGCIAICGAM?I?G?G@K@MDE@ID]RYLMDKDK@UBI?E@Y?C@C?I@QDMFQHUd@ADCDAHCJ?HAD?L?BAj@AXAXCTAHAHERKb@Sv@GPMl@O~@G`@Kf@IXIRGPORCDSVA@KHSLSHSBOBs@@A?UDIBIBQJMJMPMPIHIHKDKBKDI@M@M?[?O@g@Aa@Cm@EUEMCA?GCGEGEIOCICIAI?I?A?I@IBIBI@C@CDGFGNG@?`@IFAPEFCLGTKTMBCFEBE@C@C@E@C?C?A?C?EAEAECECEQWIK"
-              }, 
-              "duration": {
-                "text": "37 mins", 
-                "value": 2223
-              }, 
-              "end_location": {
-                "lat": 34.1183278, 
-                "lng": -118.3469491
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Mulholland Dr</b>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 216
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.1183278, 
-                "lng": -118.3469491
-              }, 
-              "polyline": {
-                "points": "qvfoElsiqUGFEBGBIBQFC@[HEBG@OBI@G@QBI@C@QBIBC@QDWDQDK@Q?I?O?_@?O@"
-              }, 
-              "duration": {
-                "text": "3 mins", 
-                "value": 197
-              }, 
-              "end_location": {
-                "lat": 34.1201233, 
-                "lng": -118.3474238
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Baseline Trail</b>", 
-              "distance": {
-                "text": "249 ft", 
-                "value": 76
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.1201233, 
-                "lng": -118.3474238
-              }, 
-              "polyline": {
-                "points": "wagoEjviqUCECEGEKIEAKAE?QCSA_@EM@"
-              }, 
-              "duration": {
-                "text": "1 min", 
-                "value": 81
-              }, 
-              "end_location": {
-                "lat": 34.1208035, 
-                "lng": -118.3472075
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Pacific View Dr</b>", 
-              "distance": {
-                "text": "0.4 mi", 
-                "value": 673
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.1208035, 
-                "lng": -118.3472075
-              }, 
-              "polyline": {
-                "points": "_fgoE`uiqU?EE_@EQAQAEAI?KBKDMBEFMDG@E@G?IAUAS?I@EBQFS@G@I@K@K@M?I?E?C?C?AAA?A?AA?AAA?A?K?MBMBM@K@SEQCCAGASCi@CK@A@?@?@?@?XAZ?H?HAB?BAB?BA@A@ABA@A?CBQ?Y@O@E?E@MBc@La@NYLKDCBA@EFEJGJKZITINKJKFGBC@IDSFIDg@Le@JOBSDKCMGCA]F"
-              }, 
-              "duration": {
-                "text": "8 mins", 
-                "value": 496
-              }, 
-              "end_location": {
-                "lat": 34.1242489, 
-                "lng": -118.3471006
-              }
-            }, 
-            {
-              "html_instructions": "Continue onto <b>Woodrow Wilson Dr</b>", 
-              "distance": {
-                "text": "430 ft", 
-                "value": 131
-              }, 
-              "travel_mode": "WALKING", 
-              "start_location": {
-                "lat": 34.1242489, 
-                "lng": -118.3471006
-              }, 
-              "polyline": {
-                "points": "q{goEjtiqUYHGBIBYFODM@E?ICCCGGUq@CEM_@COCO"
-              }, 
-              "duration": {
-                "text": "2 mins", 
-                "value": 95
-              }, 
-              "end_location": {
-                "lat": 34.1251279, 
-                "lng": -118.3465879
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Oakcrest Dr</b><div style=\"font-size:0.9em\">Take the stairs</div>", 
-              "distance": {
-                "text": "0.1 mi", 
-                "value": 217
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.1251279, 
-                "lng": -118.3465879
-              }, 
-              "polyline": {
-                "points": "aahoEdqiqUY@G@K@C?C@C?C?A?QBGCEG[[Y]CEUWY]WWAC[]Y]SU"
-              }, 
-              "duration": {
-                "text": "4 mins", 
-                "value": 224
-              }, 
-              "end_location": {
-                "lat": 34.1266405, 
-                "lng": -118.3454502
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>left</b> onto <b>Cahuenga Blvd</b>", 
-              "distance": {
-                "text": "0.6 mi", 
-                "value": 923
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-left", 
-              "start_location": {
-                "lat": 34.1266405, 
-                "lng": -118.3454502
-              }, 
-              "polyline": {
-                "points": "ojhoE`jiqUcA`AKJA@KJkDpDKHUXGHGBQXILIJSVs@fAGJ_@h@w@nAQZWb@GJINQVGJGHWd@UZOXCDOZYd@GLOKIPS`@QXS\\{@zAYf@EFEFEL[h@S\\Wf@ODo@dAGJ_@t@MZ"
-              }, 
-              "duration": {
-                "text": "11 mins", 
-                "value": 649
-              }, 
-              "end_location": {
-                "lat": 34.1321862, 
-                "lng": -118.3527395
-              }
-            }, 
-            {
-              "html_instructions": "Turn <b>right</b> onto <b>Universal Studios Blvd</b><div style=\"font-size:0.9em\">Destination will be on the right</div>", 
-              "distance": {
-                "text": "0.3 mi", 
-                "value": 446
-              }, 
-              "travel_mode": "WALKING", 
-              "maneuver": "turn-right", 
-              "start_location": {
-                "lat": 34.1321862, 
-                "lng": -118.3527395
-              }, 
-              "polyline": {
-                "points": "emioErwjqUSGWIICk@MSEMCc@Gc@Qe@SYQg@]MKYSMGENIGMKECGEUQSUGCUMECGCGCECICGCICICEAGCKACAGAIAEAG?IAGAQAYAG?I?IAK@O@MA@O"
-              }, 
-              "duration": {
-                "text": "7 mins", 
-                "value": 443
-              }, 
-              "end_location": {
-                "lat": 34.1358715, 
-                "lng": -118.3511178
-              }
+        "steps": [
+          {
+            "html_instructions": "Head <b>south</b>", 
+            "distance": {
+              "text": "141 ft", 
+              "value": 43
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 33.8094801, 
+              "lng": -117.9189322
+            }, 
+            "polyline": {
+              "points": "gljmEh`vnUD?b@?b@??N"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 30
+            }, 
+            "end_location": {
+              "lat": 33.8090939, 
+              "lng": -117.919015
             }
-          ], 
-          "duration": {
-            "text": "13 hours 48 mins", 
-            "value": 49699
           }, 
-          "end_location": {
-            "lat": 34.1358715, 
-            "lng": -118.3511178
+          {
+            "html_instructions": "Turn <b>right</b> toward <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "394 ft", 
+              "value": 120
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8090939, 
+              "lng": -117.919015
+            }, 
+            "polyline": {
+              "points": "yijmEx`vnU?b@?`C?tA"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 86
+            }, 
+            "end_location": {
+              "lat": 33.8090914, 
+              "lng": -117.9202702
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> at <b>Tram Loading</b>", 
+            "distance": {
+              "text": "66 ft", 
+              "value": 20
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8090914, 
+              "lng": -117.9202702
+            }, 
+            "polyline": {
+              "points": "yijmEthvnUb@B"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 14
+            }, 
+            "end_location": {
+              "lat": 33.8089131, 
+              "lng": -117.9202943
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "138 ft", 
+              "value": 42
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8089131, 
+              "lng": -117.9202943
+            }, 
+            "polyline": {
+              "points": "uhjmExhvnULf@DT@H@L"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 31
+            }, 
+            "end_location": {
+              "lat": 33.8087859, 
+              "lng": -117.9207209
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "177 ft", 
+              "value": 54
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 33.8087859, 
+              "lng": -117.9207209
+            }, 
+            "polyline": {
+              "points": "}gjmEnkvnUFn@@h@DV"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 39
+            }, 
+            "end_location": {
+              "lat": 33.8087117, 
+              "lng": -117.9212925
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "328 ft", 
+              "value": 100
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 33.8087117, 
+              "lng": -117.9212925
+            }, 
+            "polyline": {
+              "points": "mgjmE`ovnUDv@?L@TA~@?P?NALAH"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 73
+            }, 
+            "end_location": {
+              "lat": 33.8087034, 
+              "lng": -117.922365
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "322 ft", 
+              "value": 98
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 33.8087034, 
+              "lng": -117.922365
+            }, 
+            "polyline": {
+              "points": "kgjmEvuvnUCLCJEFCFUTYVC?A??AA?A?A?A??@A?A?A?A@A@A??@A@A??@A@?@A??@?@A@?@?@?@?@A@?@?@@@?@?@?@?@@@?@@??@?@BB"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 70
+            }, 
+            "end_location": {
+              "lat": 33.8091686, 
+              "lng": -117.9230839
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> to stay on <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "98 ft", 
+              "value": 30
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8091686, 
+              "lng": -117.9230839
+            }, 
+            "polyline": {
+              "points": "ijjmEfzvnUKZB`@"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 21
+            }, 
+            "end_location": {
+              "lat": 33.8092094, 
+              "lng": -117.9233865
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "49 ft", 
+              "value": 15
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 33.8092094, 
+              "lng": -117.9233865
+            }, 
+            "polyline": {
+              "points": "qjjmEd|vnUIZ"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 10
+            }, 
+            "end_location": {
+              "lat": 33.809265, 
+              "lng": -117.9235299
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> to stay on <b>Downtown Drive</b>", 
+            "distance": {
+              "text": "479 ft", 
+              "value": 146
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.809265, 
+              "lng": -117.9235299
+            }, 
+            "polyline": {
+              "points": "{jjmE`}vnUNZLd@Fj@BZ?d@B\\Df@?h@AN"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 101
+            }, 
+            "end_location": {
+              "lat": 33.8090066, 
+              "lng": -117.9250482
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Downtown Disney</b>", 
+            "distance": {
+              "text": "89 ft", 
+              "value": 27
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8090066, 
+              "lng": -117.9250482
+            }, 
+            "polyline": {
+              "points": "iijmEpfwnUIDEDGFKP"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 20
+            }, 
+            "end_location": {
+              "lat": 33.8091906, 
+              "lng": -117.9252409
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> to stay on <b>Downtown Disney</b>", 
+            "distance": {
+              "text": "223 ft", 
+              "value": 68
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8091906, 
+              "lng": -117.9252409
+            }, 
+            "polyline": {
+              "points": "mjjmEvgwnUaA@K@K@OFMD"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 57
+            }, 
+            "end_location": {
+              "lat": 33.8097948, 
+              "lng": -117.9253369
+            }
+          }, 
+          {
+            "html_instructions": "Continue onto <b>Passenger Drop-Off</b>", 
+            "distance": {
+              "text": "489 ft", 
+              "value": 149
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 33.8097948, 
+              "lng": -117.9253369
+            }, 
+            "polyline": {
+              "points": "enjmEjhwnUiC@?n@Cn@?P?j@"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 104
+            }, 
+            "end_location": {
+              "lat": 33.8104981, 
+              "lng": -117.9261389
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 159
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8104981, 
+              "lng": -117.9261389
+            }, 
+            "polyline": {
+              "points": "srjmEjmwnU_B@I@CDCH?`@?t@?v@Mf@E?"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 118
+            }, 
+            "end_location": {
+              "lat": 33.811166, 
+              "lng": -117.9271645
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> toward <b>Magic Way</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 174
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.811166, 
+              "lng": -117.9271645
+            }, 
+            "polyline": {
+              "points": "yvjmEvswnUuE?gA??PM?C?M?"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 140
+            }, 
+            "end_location": {
+              "lat": 33.8127609, 
+              "lng": -117.927251
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Magic Way</b>", 
+            "distance": {
+              "text": "348 ft", 
+              "value": 106
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8127609, 
+              "lng": -117.927251
+            }, 
+            "polyline": {
+              "points": "w`kmEhtwnU?tE"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 84
+            }, 
+            "end_location": {
+              "lat": 33.8127621, 
+              "lng": -117.9283156
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>S Walnut St</b>", 
+            "distance": {
+              "text": "1.1 mi", 
+              "value": 1691
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8127621, 
+              "lng": -117.9283156
+            }, 
+            "polyline": {
+              "points": "w`kmE~zwnU_B?s@?iA@KAG?E?IAI?GAE?EAG?I?mK@_@?M?kA@M?OA}@?a@@M?cA?Q?E?Q?MBMHS@c@?]?O?k@?U@aA?M?{@?{A?M?iC@O?mC@C?O?mC@O?sA@wA?eA?qG@M?iAAq@AM?qD@S?iAAM@_ABQP"
+            }, 
+            "duration": {
+              "text": "21 mins", 
+              "value": 1270
+            }, 
+            "end_location": {
+              "lat": 33.8278959, 
+              "lng": -117.928553
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>left</b> onto <b>S Manchester Ave</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 634
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-left", 
+            "start_location": {
+              "lat": 33.8278959, 
+              "lng": -117.928553
+            }, 
+            "polyline": {
+              "points": "k_nmEl|wnUkAnASPQR}A~AyAzAILu@|@q@|@cB|BiBjCSTW^KHKFe@j@MLGFQJE@GBE@K@]BU?"
+            }, 
+            "duration": {
+              "text": "8 mins", 
+              "value": 474
+            }, 
+            "end_location": {
+              "lat": 33.8321416, 
+              "lng": -117.9329247
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Lincoln Ave</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 580
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8321416, 
+              "lng": -117.9329247
+            }, 
+            "polyline": {
+              "points": "{ynmEvwxnU?h@AlAGnAGz@KjAIl@Ef@YxCAd@AV?FA|@?Z?dB?P@vA@bB@d@?JAH?FEJCHO??HBzA"
+            }, 
+            "duration": {
+              "text": "7 mins", 
+              "value": 422
+            }, 
+            "end_location": {
+              "lat": 33.8326191, 
+              "lng": -117.9391025
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>Lincoln Ave</b>", 
+            "distance": {
+              "text": "0.3 mi", 
+              "value": 560
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 33.8326191, 
+              "lng": -117.9391025
+            }, 
+            "polyline": {
+              "points": "{|nmEj~ynUC^AP?T@bA?h@@nA?V@r@?t@@z@?TAJ?TAtC@PBnB?jD?P?`F"
+            }, 
+            "duration": {
+              "text": "7 mins", 
+              "value": 426
+            }, 
+            "end_location": {
+              "lat": 33.8325961, 
+              "lng": -117.945117
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b>", 
+            "distance": {
+              "text": "479 ft", 
+              "value": 146
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8325961, 
+              "lng": -117.945117
+            }, 
+            "polyline": {
+              "points": "w|nmE~c{nUy@@UKQ?sC?M??H"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 103
+            }, 
+            "end_location": {
+              "lat": 33.8338993, 
+              "lng": -117.9451164
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b>", 
+            "distance": {
+              "text": "128 ft", 
+              "value": 39
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8338993, 
+              "lng": -117.9451164
+            }, 
+            "polyline": {
+              "points": "{domE~c{nU?rA"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 30
+            }, 
+            "end_location": {
+              "lat": 33.8339023, 
+              "lng": -117.9455442
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b>", 
+            "distance": {
+              "text": "266 ft", 
+              "value": 81
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8339023, 
+              "lng": -117.9455442
+            }, 
+            "polyline": {
+              "points": "{domErf{nUgA@Ar@DR"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 60
+            }, 
+            "end_location": {
+              "lat": 33.834245, 
+              "lng": -117.9459053
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 218
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.834245, 
+              "lng": -117.9459053
+            }, 
+            "polyline": {
+              "points": "_gomE|h{nUcA?_@?w@AE?C@C@CDAF?@BlD?lA"
+            }, 
+            "duration": {
+              "text": "3 mins", 
+              "value": 159
+            }, 
+            "end_location": {
+              "lat": 33.8350988, 
+              "lng": -117.9472602
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>N Crescent Way</b>", 
+            "distance": {
+              "text": "0.9 mi", 
+              "value": 1483
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8350988, 
+              "lng": -117.9472602
+            }, 
+            "polyline": {
+              "points": "klomEjq{nUO?M?e@?{@@[?a@?q@BS?_@?iA?cB@uB?I?KBEFGHIRaBrD}@rB_ChFEJEJCFAD?D?FAN?jB@~F?fF?xFAHAh@Aj@AX?nC?p@?P?hA?jDAF?P@R?rA?L?X?P?\\Ch@?NAR?N"
+            }, 
+            "duration": {
+              "text": "18 mins", 
+              "value": 1088
+            }, 
+            "end_location": {
+              "lat": 33.8398527, 
+              "lng": -117.9591944
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>N Brookhurst St</b>", 
+            "distance": {
+              "text": "0.6 mi", 
+              "value": 1025
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8398527, 
+              "lng": -117.9591944
+            }, 
+            "polyline": {
+              "points": "ajpmE|{}nUeA?_B?Y?o@CQ?{AB{DDMA]E{AO[Eg@GKAUCC?GASAO@M?q@Fs@D[Ba@DS@K@G?M@s@DC?E?G?UBM?W@K@A?W@A?M@w@Bc@B}@BQ@O?Q@I?U?a@AM?m@@Q?i@?_@?}@AY?eA?"
+            }, 
+            "duration": {
+              "text": "13 mins", 
+              "value": 806
+            }, 
+            "end_location": {
+              "lat": 33.8489627, 
+              "lng": -117.9592992
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>W Falmouth Ave</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 670
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8489627, 
+              "lng": -117.9592992
+            }, 
+            "polyline": {
+              "points": "_crmEr|}nU@hD@xE@bK?j@Eb@g@jAGLiAfCqArCw@rBIL"
+            }, 
+            "duration": {
+              "text": "8 mins", 
+              "value": 480
+            }, 
+            "end_location": {
+              "lat": 33.8503068, 
+              "lng": -117.9660957
+            }
+          }, 
+          {
+            "html_instructions": "Continue straight onto <b>N Minot St</b>", 
+            "distance": {
+              "text": "0.2 mi", 
+              "value": 349
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "straight", 
+            "start_location": {
+              "lat": 33.8503068, 
+              "lng": -117.9660957
+            }, 
+            "polyline": {
+              "points": "mkrmEbg_oUIHIFK@_D@iLBMC"
+            }, 
+            "duration": {
+              "text": "4 mins", 
+              "value": 251
+            }, 
+            "end_location": {
+              "lat": 33.8534677, 
+              "lng": -117.9662096
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>W Coronet Ave</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 166
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8534677, 
+              "lng": -117.9662096
+            }, 
+            "polyline": {
+              "points": "e_smExg_oUg@dDMn@E\\?N?lA"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 121
+            }, 
+            "end_location": {
+              "lat": 33.8537746, 
+              "lng": -117.9678969
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>N Gilbert St</b>", 
+            "distance": {
+              "text": "1.3 mi", 
+              "value": 2040
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8537746, 
+              "lng": -117.9678969
+            }, 
+            "polyline": {
+              "points": "aasmEjr_oUoA@E??P_@?]@C?A?A?a@?K?C?A?aD?_B?O?yA@M?_@?u@@O?}D?uA@W?g@?e@?Q?[?i@BU@M?cA@M?uLBM?yCBM?wG?eE@M?}@?M?mA@M?w@?}A?iB@q@?oA@_A?O?{@?k@@K@S@M@g@Fk@DM?q@?c@CY?g@?i@?_A@c@?_BAM?"
+            }, 
+            "duration": {
+              "text": "25 mins", 
+              "value": 1524
+            }, 
+            "end_location": {
+              "lat": 33.8721218, 
+              "lng": -117.9682514
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Artesia Ave</b>", 
+            "distance": {
+              "text": "1.1 mi", 
+              "value": 1712
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8721218, 
+              "lng": -117.9682514
+            }, 
+            "polyline": {
+              "points": "wsvmEpt_oUE`@W|BIv@OrAGl@UvBOvAm@|FWbCU|B_BjOEd@C^CPA`@?b@?~@?`C@tA?~A?vFBlG?xB?`C?j@?p@@dD?vD@^?rA?p@?rBI\\AN"
+            }, 
+            "duration": {
+              "text": "21 mins", 
+              "value": 1245
+            }, 
+            "end_location": {
+              "lat": 33.8736594, 
+              "lng": -117.9865836
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Dale St</b>", 
+            "distance": {
+              "text": "289 ft", 
+              "value": 88
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.8736594, 
+              "lng": -117.9865836
+            }, 
+            "polyline": {
+              "points": "k}vmEbgcoUw@?{A?"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 73
+            }, 
+            "end_location": {
+              "lat": 33.8744026, 
+              "lng": -117.9865819
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>left</b> to stay on <b>Dale St</b>", 
+            "distance": {
+              "text": "0.2 mi", 
+              "value": 372
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-left", 
+            "start_location": {
+              "lat": 33.8744026, 
+              "lng": -117.9865819
+            }, 
+            "polyline": {
+              "points": "_bwmEbgcoUKHIB]AgA?gA?c@@U?M@G?YBC?]HWFQFQDOHMBKCYJQFIDG@IBQBYDG@sAP"
+            }, 
+            "duration": {
+              "text": "5 mins", 
+              "value": 283
+            }, 
+            "end_location": {
+              "lat": 33.8776257, 
+              "lng": -117.9871951
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Malvern Ave</b>", 
+            "distance": {
+              "text": "0.8 mi", 
+              "value": 1232
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.8776257, 
+              "lng": -117.9871951
+            }, 
+            "polyline": {
+              "points": "evwmE~jcoU?|@?bA@x@AtA@dCAn@C`@CZEXGb@If@GRI^Sl@Uh@MZILMVINa@h@QTg@d@[Va@Xe@RMDu@Rc@JKBWDc@DiABY@_A@O?]B]BA?QBUF]HKDsAl@ABULABe@^_@^MPIJg@p@KN{@|@CDKJe@^QT_@d@YZMNKLc@f@ETGRORMN"
+            }, 
+            "duration": {
+              "text": "15 mins", 
+              "value": 922
+            }, 
+            "end_location": {
+              "lat": 33.8845506, 
+              "lng": -117.9956383
+            }
+          }, 
+          {
+            "html_instructions": "Continue onto <b>S La Mirada Blvd</b><div style=\"font-size:0.9em\">Pass by Wendy's (on the right in 1.1&nbsp;mi)</div>", 
+            "distance": {
+              "text": "2.6 mi", 
+              "value": 4260
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 33.8845506, 
+              "lng": -117.9956383
+            }, 
+            "polyline": {
+              "points": "maymEv_eoUm@~@GLQXY`@s@hAoAnBYd@w@pAa@n@STSTQPUTUPc@VGDMFYNWLA@QHYNWLKDmAh@MH[NSJm@`@_@Ra@XUPCBMJKH_@ZURURQRUR?@[\\[^STORCDORY`@GHSZU^S\\S^Yj@Ud@CDS`@]t@eAxBQ^GL{@hBkAdCwAvCkAbCmCxF]p@]r@OXQXOVOTSXY\\YZIJSTUTk@f@URQLCBa@Xa@Va@Tc@TYLc@Po@Tk@Pa@H}@PkBXQBA?QB}@Lg@Hu@JiBXaANMBiANuARkDf@M@m@Dg@Bk@?qA@wB?E?GCEAIENIGOMFM?E?M@SM_A?_CCo@?MAgBCo@?u@?{@?O?oA@S@sD?eA?y@@O?cB?W?{A@_C@[?kB?M?qA@cA?gA@S?w@?qB@iA?cB@O?iC?Y?S?_BAM?mA?{@?c@?M?C?w@@Q?E?Q@?N"
+            }, 
+            "duration": {
+              "text": "55 mins", 
+              "value": 3278
+            }, 
+            "end_location": {
+              "lat": 33.9172914, 
+              "lng": -118.0118417
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>E Imperial Hwy</b>", 
+            "distance": {
+              "text": "499 ft", 
+              "value": 152
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.9172914, 
+              "lng": -118.0118417
+            }, 
+            "polyline": {
+              "points": "an_nE~dhoU?H?F?P?tA@f@?N?n@?tA"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 135
+            }, 
+            "end_location": {
+              "lat": 33.9172822, 
+              "lng": -118.0133994
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "2.4 mi", 
+              "value": 3884
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.9172822, 
+              "lng": -118.0133994
+            }, 
+            "polyline": {
+              "points": "_n_nEvnhoUQDODIBSF]NYNKFKHKHQLIFMLGF]`@KLQVIJyAdCYj@aAdBc@t@i@dA}@bBCBINEHm@dAILIPa@t@OX{@zAUb@U`@U`@k@bAU`@aAfBgApBINo@hAk@bA_BvC_@n@SDCFYh@U^KRKNCFKN[j@c@x@k@bAOZc@p@ILuAzB}@zAeAbBU^U^EHQVa@p@W`@mAnBCDgAfBg@v@}@|AKNGNyA|BS\\yBlDi@|@eBpCw@pAi@|@IJgC`EGLS\\m@~@SZOV]h@m@bAk@~@aBlCKNGL_AzAwBfDWb@EFSZSZq@jAGHCDGL[d@a@r@U`@GHi@|@Yb@U\\OTKPILi@`Aw@~AiBpCINEFINw@hAOPe@n@?D?LS\\ORKTEFILGJ]h@i@|@e@v@m@~@s@hALLEHu@pAIJILQZk@`A"
+            }, 
+            "duration": {
+              "text": "49 mins", 
+              "value": 2913
+            }, 
+            "end_location": {
+              "lat": 33.9395631, 
+              "lng": -118.0455351
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>left</b> to stay on <b>Telegraph Rd</b><div style=\"font-size:0.9em\">Pass by Del Taco (on the left in 2.8&nbsp;mi)</div>", 
+            "distance": {
+              "text": "3.0 mi", 
+              "value": 4862
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-left", 
+            "start_location": {
+              "lat": 33.9395631, 
+              "lng": -118.0455351
+            }, 
+            "polyline": {
+              "points": "gycnErwnoUAP?BA@INi@~@o@`AKPGJINm@`AU^a@n@{@rAMTOV[h@ILMRIPEJSf@GZENAJCJANALAH?FA^Af@?p@@vB?Z?\\?hB?P?~@?p@?t@?vB?H?xA?DA@IH?R?VL\\?fB@xA?h@?b@?N?fCAT?R?zC?P?fB?P@hC?~A?T?|@?P?D?P@tBAbC?h@@j@?`@?R?J?h@?j@?tA?l@?x@AtAAvA?\\?T?J?T?\\B`C?b@?~D@pL@bAArA?R?~B@fD?`AAvA?hB?@@p@AVCf@C\\CP?FCPIb@ABGXCHEPENGVGN_@lAOf@Od@Of@i@dBENGNENc@tAm@nBg@`Bs@zBo@vBs@vBqAjE_BfFENEJENk@jBELSp@_@hAi@dBw@dCCFW|@i@|AGRm@nBkAzDENg@~A{@rCy@nCCD}@tCUt@i@fBENEJENOd@EPSl@K^Wx@GPOb@[z@Od@Sp@s@`CGLWz@GNELITMDGVSn@IVGTGTc@tAWv@Sn@GT"
+            }, 
+            "duration": {
+              "text": "1 hour 1 min", 
+              "value": 3688
+            }, 
+            "end_location": {
+              "lat": 33.9508426, 
+              "lng": -118.0946856
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>left</b> to stay on <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 208
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-left", 
+            "start_location": {
+              "lat": 33.9508426, 
+              "lng": -118.0946856
+            }, 
+            "polyline": {
+              "points": "w_fnExjxoUCTCLADAHK`@ITAHK\\Sl@ELQj@Un@KTMZWn@"
+            }, 
+            "duration": {
+              "text": "3 mins", 
+              "value": 150
+            }, 
+            "end_location": {
+              "lat": 33.9516575, 
+              "lng": -118.0966826
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>True Ave</b>", 
+            "distance": {
+              "text": "66 ft", 
+              "value": 20
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.9516575, 
+              "lng": -118.0966826
+            }, 
+            "polyline": {
+              "points": "{dfnEfwxoUPRIL"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 15
+            }, 
+            "end_location": {
+              "lat": 33.9516211, 
+              "lng": -118.0968457
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "0.2 mi", 
+              "value": 245
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.9516211, 
+              "lng": -118.0968457
+            }, 
+            "polyline": {
+              "points": "sdfnEhxxoUuBfD}CbF"
+            }, 
+            "duration": {
+              "text": "3 mins", 
+              "value": 181
+            }, 
+            "end_location": {
+              "lat": 33.9530024, 
+              "lng": -118.0988282
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Songfest Dr</b>", 
+            "distance": {
+              "text": "69 ft", 
+              "value": 21
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 33.9530024, 
+              "lng": -118.0988282
+            }, 
+            "polyline": {
+              "points": "gmfnEtdyoUUIIL"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 15
+            }, 
+            "end_location": {
+              "lat": 33.9531593, 
+              "lng": -118.0988494
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "0.3 mi", 
+              "value": 516
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 33.9531593, 
+              "lng": -118.0988494
+            }, 
+            "polyline": {
+              "points": "gnfnExdyoU_A|AaA|A_@l@[f@GJW`@U^ILMRW`@GJeAdBSXWb@o@dAOVILa@n@ILMEc@n@MTGH"
+            }, 
+            "duration": {
+              "text": "7 mins", 
+              "value": 395
+            }, 
+            "end_location": {
+              "lat": 33.95618, 
+              "lng": -118.1030511
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>Telegraph Rd</b><div style=\"font-size:0.9em\">Pass by Carl's Jr (on the right in 4.7&nbsp;mi)</div>", 
+            "distance": {
+              "text": "4.8 mi", 
+              "value": 7662
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 33.95618, 
+              "lng": -118.1030511
+            }, 
+            "polyline": {
+              "points": "cagnE`_zoUOHMLW`@eAfBw@lA_@n@ILYd@U`@kB|CILYf@u@hAILo@bAQZYb@u@jAOVKNMTeAdBS\\KNOVQVMPIPMTKLOPKLEHIN[d@m@fAKNEHKNU^_@j@EDILKNOPKJKFEDURQLOLETKH[X_CnBSNa@\\_GdFi@d@KH_Az@]Zo@j@IHa@\\a@\\k@h@mAfAQLML]Zq@l@KHm@f@iA~@IHe@`@URMJ_@\\i@f@uAnA_Ax@[X_@Ze@b@KHo@j@g@d@aAz@KHiA`AKJ_@Zo@j@WRi@l@CBsBpB_A`As@v@UVED[Z?@[\\A?WXe@j@EB{@x@SPONc@f@IJc@j@OVW`@WZW^EDGHMJq@r@KJGFFLEDUTq@r@[ZaA~@s@p@CDKHEF]\\GFWVSRg@h@mAjA_A|@cBbBo@l@CBi@h@c@`@YXi@d@MJSPu@x@q@v@QP_@^EDYVGHcAbAQPcAbA{C`DGD}@|@}A~Ao@n@i@h@GFCDi@h@cA`AmAlA}@z@[Xa@^aA~@a@Za@`@a@f@IKCBYX[XMNCBGFQRW^_@p@QZcAtB]r@IPk@r@i@j@KJCDKJy@v@WRc@Zc@R[Ju@XC@}@\\c@VQJQJOLy@r@MJy@z@_@^URONENi@h@OBKJ_@^KHo@n@ONQP_@\\w@t@IJ_@\\_@^CBQNeAdAIF{DvDa@RCBOJOLsBlBMJOLgAbACRKHWXUTURq@n@OLe@d@[Xa@`@]ZMNEPm@j@OB[ZIHKJIHaA~@[ZWRWTIH}@|@_@ZiAdA}CtCKJoDfDa@`@KJiAfAWTIHkCbCuAnAIHsAtAkBtB_DnDWXEDaApAKLm@r@OPsCdDe@h@UXQFKFo@x@uA`BKJUTm@p@MNONIJWXGF"
+            }, 
+            "duration": {
+              "text": "1 hour 36 mins", 
+              "value": 5759
+            }, 
+            "end_location": {
+              "lat": 34.0083069, 
+              "lng": -118.1568009
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> toward <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "128 ft", 
+              "value": 39
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.0083069, 
+              "lng": -118.1568009
+            }, 
+            "polyline": {
+              "points": "}fqnE~ndpUIK?AA??@A?A@YX"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 28
+            }, 
+            "end_location": {
+              "lat": 34.0085197, 
+              "lng": -118.1568752
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> toward <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "79 ft", 
+              "value": 24
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.0085197, 
+              "lng": -118.1568752
+            }, 
+            "polyline": {
+              "points": "ghqnEnodpU@BRZIJ"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 18
+            }, 
+            "end_location": {
+              "lat": 34.0084565, 
+              "lng": -118.1571004
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 161
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.0084565, 
+              "lng": -118.1571004
+            }, 
+            "polyline": {
+              "points": "{gqnEzpdpUMPCD_@`@QBgAlAY\\WZOT"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 116
+            }, 
+            "end_location": {
+              "lat": 34.0094919, 
+              "lng": -118.1581991
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>S Atlantic Blvd</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 177
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.0094919, 
+              "lng": -118.1581991
+            }, 
+            "polyline": {
+              "points": "inqnEvwdpUO?I?O@[DIB_@Lg@RUHcA^EBO@QLHC[NFP"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 141
+            }, 
+            "end_location": {
+              "lat": 34.0109492, 
+              "lng": -118.1588902
+            }
+          }, 
+          {
+            "html_instructions": "Cross the road", 
+            "distance": {
+              "text": "131 ft", 
+              "value": 40
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 34.0109492, 
+              "lng": -118.1588902
+            }, 
+            "polyline": {
+              "points": "mwqnE`|dpU@B?D?TZK"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 47
+            }, 
+            "end_location": {
+              "lat": 34.0107993, 
+              "lng": -118.1589855
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "1.2 mi", 
+              "value": 1921
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.0107993, 
+              "lng": -118.1589855
+            }, 
+            "polyline": {
+              "points": "ovqnEt|dpUE^ANELCNOb@GLSj@i@zAKXENi@vAc@jAu@tBGNk@hBQf@Od@ELw@vBs@lBENcA~CGNmAdDGLiAbDEN{AlEGNmApDITGNADEJGNk@dBGPWv@[~@W|@INQd@eAxCGP[x@Sj@KXITAB?@A@AD?@EJ?@A?CJQh@A@ADCFADA@?@CFQd@?@A@CHIVUp@JDEN]`AOd@g@xAwA|D}@fCOb@Od@]~@?a@"
+            }, 
+            "duration": {
+              "text": "24 mins", 
+              "value": 1468
+            }, 
+            "end_location": {
+              "lat": 34.0188935, 
+              "lng": -118.1771108
+            }
+          }, 
+          {
+            "html_instructions": "Sharp <b>right</b> onto <b>E Olympic Blvd</b>", 
+            "distance": {
+              "text": "108 ft", 
+              "value": 33
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-sharp-right", 
+            "start_location": {
+              "lat": 34.0188935, 
+              "lng": -118.1771108
+            }, 
+            "polyline": {
+              "points": "aisnE|mhpUAg@?GM??P"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 34
+            }, 
+            "end_location": {
+              "lat": 34.0189697, 
+              "lng": -118.1769559
+            }
+          }, 
+          {
+            "html_instructions": "Cross the road", 
+            "distance": {
+              "text": "108 ft", 
+              "value": 33
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 34.0189697, 
+              "lng": -118.1769559
+            }, 
+            "polyline": {
+              "points": "qisnE~lhpU@z@"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 36
+            }, 
+            "end_location": {
+              "lat": 34.01896139999999, 
+              "lng": -118.1772637
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> onto <b>Telegraph Rd</b>", 
+            "distance": {
+              "text": "0.2 mi", 
+              "value": 289
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 34.01896139999999, 
+              "lng": -118.1772637
+            }, 
+            "polyline": {
+              "points": "oisnEznhpUw@bCGNu@tBOd@Qf@Od@a@jAg@xA"
+            }, 
+            "duration": {
+              "text": "4 mins", 
+              "value": 224
+            }, 
+            "end_location": {
+              "lat": 34.0201655, 
+              "lng": -118.1800048
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>S Downey Rd</b>", 
+            "distance": {
+              "text": "0.3 mi", 
+              "value": 422
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.0201655, 
+              "lng": -118.1800048
+            }, 
+            "polyline": {
+              "points": "aqsnE~_ipUs@?y@?g@?Y?aA?}@@cB??PG?{D@s@?M?mA?"
+            }, 
+            "duration": {
+              "text": "5 mins", 
+              "value": 324
+            }, 
+            "end_location": {
+              "lat": 34.0238902, 
+              "lng": -118.1801145
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Whittier Blvd</b><div style=\"font-size:0.9em\">Pass by 99 Cents Only Stores (on the right in 1.2&nbsp;mi)</div>", 
+            "distance": {
+              "text": "2.4 mi", 
+              "value": 3914
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.0238902, 
+              "lng": -118.1801145
+            }, 
+            "polyline": {
+              "points": "ihtnEt`ipU?vA@fC?PAdG?P?fB?`B?N?nB?xA?Z?N@tB?pB?P?h@?x@?z@?z@Q??P?pA@lAAP?bA?v@?p@?N?`@@z@?x@?X?P?P?r@?f@?t@?P?fB?n@?NAH?HCNAFGPOb@ENm@hBm@dBa@lAWr@K\\c@lA{@jCi@|AENWv@IRIXIT]~@Ob@_@jA_@fAELGRQj@KVGNAFKVELCHKZYx@M\\[bAEJKXOb@[`AO`@M`@M\\ENSh@Sl@]~@Ob@o@jBeBbFa@lAYz@_@`AGNQh@u@xBKZWr@CFENUj@K\\o@dBOf@M^GNWr@Ur@Ob@IR[|@ELYx@sA|DSl@EHENw@zBWr@Qd@M^GNENQf@IREJK\\a@hAGRGNADKXSj@KXEN[~@ABg@vAENQh@CFKVUr@ITENIRKXCFELM`@Sl@GNK\\Qh@M^Wt@c@nAOb@Od@KZIXQd@o@lB]dAENOd@"
+            }, 
+            "duration": {
+              "text": "51 mins", 
+              "value": 3058
+            }, 
+            "end_location": {
+              "lat": 34.0358068, 
+              "lng": -118.2189096
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>S Boyle Ave</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 193
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.0358068, 
+              "lng": -118.2189096
+            }, 
+            "polyline": {
+              "points": "yrvnEdsppUq@Ms@@c@@]@M@K@KBUHgBj@"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 128
+            }, 
+            "end_location": {
+              "lat": 34.0374715, 
+              "lng": -118.2191836
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>S Boyle Ave</b>", 
+            "distance": {
+              "text": "0.7 mi", 
+              "value": 1139
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 34.0374715, 
+              "lng": -118.2191836
+            }, 
+            "polyline": {
+              "points": "e}vnEztppU[DG@_@JOFODcAZE@UFa@LA@_@HSFMDA?WBG?c@BM@IDGBS?K?MAi@Ec@EE?[E]EMAiBQ[CQCe@EI?MAY?O?O?G?yBFc@@]@g@@O@{ADuADwCFcABm@BM?K?c@@Y@sA@M?_BBo@@k@@M?cA?KCAP"
+            }, 
+            "duration": {
+              "text": "15 mins", 
+              "value": 877
+            }, 
+            "end_location": {
+              "lat": 34.047674, 
+              "lng": -118.2198882
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>left</b> onto <b>Pleasant Ave</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 681
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-left", 
+            "start_location": {
+              "lat": 34.047674, 
+              "lng": -118.2198882
+            }, 
+            "polyline": {
+              "points": "}|xnEhyppUa@d@uA~Aw@~@KJSVUX[\\EDA@A@C@KBu@Pw@PMB[Hs@Nm@NyBd@IBQDk@Jc@JoCn@gAVMB{@RMBMECN"
+            }, 
+            "duration": {
+              "text": "9 mins", 
+              "value": 512
+            }, 
+            "end_location": {
+              "lat": 34.0531039, 
+              "lng": -118.2227355
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>East Cesar E Chavez Avenue</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 581
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.0531039, 
+              "lng": -118.2227355
+            }, 
+            "polyline": {
+              "points": "{~ynEbkqpUKVADADCHEPA@GRCH?BA@?@EPA@CLOd@GVENUt@CHIRENGNCHABe@rAQh@u@xBGPEJEHEJa@hAM\\Yr@ITKVOh@[dAQv@Mj@Wz@"
+            }, 
+            "duration": {
+              "text": "7 mins", 
+              "value": 436
+            }, 
+            "end_location": {
+              "lat": 34.055457, 
+              "lng": -118.2283413
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>right</b> to stay on <b>East Cesar E Chavez Avenue</b>", 
+            "distance": {
+              "text": "0.6 mi", 
+              "value": 931
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-right", 
+            "start_location": {
+              "lat": 34.055457, 
+              "lng": -118.2283413
+            }, 
+            "polyline": {
+              "points": "smznEbnrpUEDGHCFCJW~@[lAUx@GRSt@EPADCLe@rBMd@Op@WlAMl@CPAHCPE\\Mr@Ov@Kb@GXGZAHABKf@Kd@ETGT?@AFCLCJAFADCNCPIf@AHCNMp@Ot@CRWlAWpAMp@[pAWjACPCREVCJALAFCHCRALAH?T"
+            }, 
+            "duration": {
+              "text": "12 mins", 
+              "value": 711
+            }, 
+            "end_location": {
+              "lat": 34.0583498, 
+              "lng": -118.2378448
+            }
+          }, 
+          {
+            "html_instructions": "Continue onto <b>W Cesar Estrada Chavez Ave</b>", 
+            "distance": {
+              "text": "0.6 mi", 
+              "value": 954
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 34.0583498, 
+              "lng": -118.2378448
+            }, 
+            "polyline": {
+              "points": "u_{nEnitpU@`@@tB?B?R?r@?\\AVCb@CPIb@Ut@O`@CN?To@xAc@|@a@z@GLWj@i@jAO\\IN]v@INSd@Wj@Q`@Yl@KRGL[f@ILON_@b@WZk@t@KJIJc@h@Y^}AlBY^_@d@o@v@OL"
+            }, 
+            "duration": {
+              "text": "13 mins", 
+              "value": 786
+            }, 
+            "end_location": {
+              "lat": 34.0627363, 
+              "lng": -118.246312
+            }
+          }, 
+          {
+            "html_instructions": "Continue onto <b>Sunset Blvd</b><div style=\"font-size:0.9em\">Pass by Jack in the Box (on the left in 0.2&nbsp;mi)</div>", 
+            "distance": {
+              "text": "3.7 mi", 
+              "value": 5917
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 34.0627363, 
+              "lng": -118.246312
+            }, 
+            "polyline": {
+              "points": "c{{nEl~upU}ApBUZIJ_@d@u@|@s@~@i@n@_@d@IL_AjAIHA@GJEDIHKJQLQJMHEDKB_@HQDOBKBIBs@NcARoAVMBaARIBMBQBMDkAV}@RMBq@Ng@HcBTC?Q@]@}B@M@U?{@@kAFeAHM@SBY@E@Q@K@KBG@G@KBOFIBIDOHYLMHOFc@Ru@`@SJKFMDULMDQFo@TUJg@RQJMJKHSREDKLIJEFILQ\\EFGNEFSp@EJi@|AGNY|@M`@Yx@CHGN_@jAe@xAIRM^EJW|@]`AGLc@tAu@|BELm@hBg@zAGL_@jAELKZY|@GLIVM^KZa@pAKz@?F?R?J@P?HBRB\\BNLzABNLjAB\\Fr@BZD\\Db@JhADXN`BDf@BPB\\BXBT@V@P?PAVCTCNCNAHIVGNKREHGHMNQNQPOPMNKNGNGJKTSd@Qd@cAfC{AzDg@lAELi@lAU`@EHKPSVKLUXIHSR[XKHq@l@GDo@l@[\\MLY\\ORUXIL[d@AB]h@]l@W^QVW`@MPEHCFGHGJQVOVSVILEDOPKHGFc@^GF[Ra@TYLKFgA`@w@ZWHSHMD{@Zo@VMDq@VwBv@_@NcA^gC~@KDOFqAf@aBl@_@LOF{@Zc@Pg@P}@XMJMJCBQPED_@^MNQVGJINKRENM\\Od@AFENCLCJEPCHEHQd@GLU`@MPYZSRy@v@KHUPi@f@YVs@t@KJIHi@n@WXGFUVQTm@p@gAlAEHWXsA|Ag@n@YZIJYZUXg@j@IHm@l@ORe@j@GFKJOJGNUVCBKLW\\IHOPKNc@f@QTQT[\\IJCBKJUZWZQTKNUZS^S\\S\\Yf@S\\OT?^"
+            }, 
+            "duration": {
+              "text": "1 hour 16 mins", 
+              "value": 4530
+            }, 
+            "end_location": {
+              "lat": 34.0981341, 
+              "lng": -118.2871216
+            }
+          }, 
+          {
+            "html_instructions": "Slight <b>left</b> to stay on <b>Sunset Blvd</b><div style=\"font-size:0.9em\">Pass by Starbucks (on the left in 2.3&nbsp;mi)</div>", 
+            "distance": {
+              "text": "3.0 mi", 
+              "value": 4751
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-slight-left", 
+            "start_location": {
+              "lat": 34.0981341, 
+              "lng": -118.2871216
+            }, 
+            "polyline": {
+              "points": "ixboEn}}pUAp@?P@`A?X?p@?z@?P@z@?l@?hB?pC?tA?vA?\\?n@?V?P?xB?`@?p@?P?jA@T?`B?PAdB@`B?P?h@?b@?rA?f@?P?nB?N?J?|@?N@xA?ZArA@N?pB?H?l@?b@?N@bA?F?fA?J?h@?N?fB?P?^?^?V?J?Z?bA?f@?z@?P?l@?X?P?H?^?F?l@?J?j@?h@?d@?jA@b@?rA?p@?P@fA?P?l@?`@?L@Z?L?j@?P?jA?VAJ?dA?lA?rA?dA?N@nDAp@@fB?P?xA?jB?~@@h@?h@?|@?~@?`@?PA|A?z@@Z?b@?P?t@@V?l@?|@?P@zA?T@t@?jC?p@@|@?PMA?pB?T?B?h@?\\?xB?P?RAr@@jA?P?H?B?v@Ar@@d@?Z?L?J@nA?d@?P@nC@|B?N?j@?l@?^?nB?`@?P?P?j@?j@@r@?d@?vA?N?vA?\\?jA?T?|A?rA?J?P?h@?vA?N?dA@lA?r@?rA?N?r@?r@?jD?P?r@?vA?jB?P?pD?L?P?jA?Z@bA?N?tA?N?n@?fB?nA?P?^?t@?x@?x@?R"
+            }, 
+            "duration": {
+              "text": "1 hour 0 mins", 
+              "value": 3612
+            }, 
+            "end_location": {
+              "lat": 34.09801950000001, 
+              "lng": -118.338734
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>N Highland Ave</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 625
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.09801950000001, 
+              "lng": -118.338734
+            }, 
+            "polyline": {
+              "points": "swboE``hqUo@@W?O?cD@uA?_A@y@AM?]@e@?[@M?O?eA?[?Q?qB?S?I@SAe@?i@?[HM@_@@KAo@AUA"
+            }, 
+            "duration": {
+              "text": "9 mins", 
+              "value": 517
+            }, 
+            "end_location": {
+              "lat": 34.1035983, 
+              "lng": -118.3388079
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> toward <b>Franklin Ave</b>", 
+            "distance": {
+              "text": "43 ft", 
+              "value": 13
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.1035983, 
+              "lng": -118.3388079
+            }, 
+            "polyline": {
+              "points": "ozcoEp`hqU?N"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 11
+            }, 
+            "end_location": {
+              "lat": 34.1036005, 
+              "lng": -118.3388944
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> toward <b>Franklin Ave</b>", 
+            "distance": {
+              "text": "69 ft", 
+              "value": 21
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.1036005, 
+              "lng": -118.3388944
+            }, 
+            "polyline": {
+              "points": "ozcoE`ahqUe@?"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 16
+            }, 
+            "end_location": {
+              "lat": 34.1037931, 
+              "lng": -118.3388898
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> toward <b>Franklin Ave</b>", 
+            "distance": {
+              "text": "148 ft", 
+              "value": 45
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.1037931, 
+              "lng": -118.3388898
+            }, 
+            "polyline": {
+              "points": "u{coE`ahqUAH?@ABCBA?A@q@C"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 35
+            }, 
+            "end_location": {
+              "lat": 34.1041009, 
+              "lng": -118.3389831
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Franklin Ave</b>", 
+            "distance": {
+              "text": "0.3 mi", 
+              "value": 453
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.1041009, 
+              "lng": -118.3389831
+            }, 
+            "polyline": {
+              "points": "s}coErahqU?f@?\\?N?dA?jA?P?fB?fA?hA?p@@P?`B?j@?x@?`@?~@?P?F?X?x@O?@P"
+            }, 
+            "duration": {
+              "text": "6 mins", 
+              "value": 362
+            }, 
+            "end_location": {
+              "lat": 34.1041649, 
+              "lng": -118.3439476
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Outpost Dr</b>", 
+            "distance": {
+              "text": "1.4 mi", 
+              "value": 2261
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.1041649, 
+              "lng": -118.3439476
+            }, 
+            "polyline": {
+              "points": "_~coEt`iqU[BgAJc@Da@Fc@DiBPO@]Da@Dc@DM@G@G@CBCBEFEDADEHSb@EFQ`@GLGHGJIJILUVMFUNWNIDA?GBG@IBKBOBU@a@Ao@CK?G?E@G@G@QDQDUDE?E@S?O@[@O@UFYLUFI@M@U?_@?q@AYBUBc@Bg@LSDQHMDIBI@C?G@GAQAICICSMGEIGGKAAACEGEKEMCOGSGOEMKSQUOOu@k@[Ya@c@OOY]S]GIEEMMGGMGGEGCIAICGAM?I?G?G@K@MDE@ID]RYLMDKDK@UBI?E@Y?C@C?I@QDMFQHUd@ADCDAHCJ?HAD?L?BAj@AXAXCTAHAHERKb@Sv@GPMl@O~@G`@Kf@IXIRGPORCDSVA@KHSLSHSBOBs@@A?UDIBIBQJMJMPMPIHIHKDKBKDI@M@M?[?O@g@Aa@Cm@EUEMCA?GCGEGEIOCICIAI?I?A?I@IBIBI@C@CDGFGNG@?`@IFAPEFCLGTKTMBCFEBE@C@C@E@C?C?A?C?EAEAECECEQWIK"
+            }, 
+            "duration": {
+              "text": "37 mins", 
+              "value": 2223
+            }, 
+            "end_location": {
+              "lat": 34.1183278, 
+              "lng": -118.3469491
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Mulholland Dr</b>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 216
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.1183278, 
+              "lng": -118.3469491
+            }, 
+            "polyline": {
+              "points": "qvfoElsiqUGFEBGBIBQFC@[HEBG@OBI@G@QBI@C@QBIBC@QDWDQDK@Q?I?O?_@?O@"
+            }, 
+            "duration": {
+              "text": "3 mins", 
+              "value": 197
+            }, 
+            "end_location": {
+              "lat": 34.1201233, 
+              "lng": -118.3474238
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Baseline Trail</b>", 
+            "distance": {
+              "text": "249 ft", 
+              "value": 76
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.1201233, 
+              "lng": -118.3474238
+            }, 
+            "polyline": {
+              "points": "wagoEjviqUCECEGEKIEAKAE?QCSA_@EM@"
+            }, 
+            "duration": {
+              "text": "1 min", 
+              "value": 81
+            }, 
+            "end_location": {
+              "lat": 34.1208035, 
+              "lng": -118.3472075
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Pacific View Dr</b>", 
+            "distance": {
+              "text": "0.4 mi", 
+              "value": 673
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.1208035, 
+              "lng": -118.3472075
+            }, 
+            "polyline": {
+              "points": "_fgoE`uiqU?EE_@EQAQAEAI?KBKDMBEFMDG@E@G?IAUAS?I@EBQFS@G@I@K@K@M?I?E?C?C?AAA?A?AA?AAA?A?K?MBMBM@K@SEQCCAGASCi@CK@A@?@?@?@?XAZ?H?HAB?BAB?BA@A@ABA@A?CBQ?Y@O@E?E@MBc@La@NYLKDCBA@EFEJGJKZITINKJKFGBC@IDSFIDg@Le@JOBSDKCMGCA]F"
+            }, 
+            "duration": {
+              "text": "8 mins", 
+              "value": 496
+            }, 
+            "end_location": {
+              "lat": 34.1242489, 
+              "lng": -118.3471006
+            }
+          }, 
+          {
+            "html_instructions": "Continue onto <b>Woodrow Wilson Dr</b>", 
+            "distance": {
+              "text": "430 ft", 
+              "value": 131
+            }, 
+            "travel_mode": "WALKING", 
+            "start_location": {
+              "lat": 34.1242489, 
+              "lng": -118.3471006
+            }, 
+            "polyline": {
+              "points": "q{goEjtiqUYHGBIBYFODM@E?ICCCGGUq@CEM_@COCO"
+            }, 
+            "duration": {
+              "text": "2 mins", 
+              "value": 95
+            }, 
+            "end_location": {
+              "lat": 34.1251279, 
+              "lng": -118.3465879
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Oakcrest Dr</b><div style=\"font-size:0.9em\">Take the stairs</div>", 
+            "distance": {
+              "text": "0.1 mi", 
+              "value": 217
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.1251279, 
+              "lng": -118.3465879
+            }, 
+            "polyline": {
+              "points": "aahoEdqiqUY@G@K@C?C@C?C?A?QBGCEG[[Y]CEUWY]WWAC[]Y]SU"
+            }, 
+            "duration": {
+              "text": "4 mins", 
+              "value": 224
+            }, 
+            "end_location": {
+              "lat": 34.1266405, 
+              "lng": -118.3454502
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>left</b> onto <b>Cahuenga Blvd</b>", 
+            "distance": {
+              "text": "0.6 mi", 
+              "value": 923
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-left", 
+            "start_location": {
+              "lat": 34.1266405, 
+              "lng": -118.3454502
+            }, 
+            "polyline": {
+              "points": "ojhoE`jiqUcA`AKJA@KJkDpDKHUXGHGBQXILIJSVs@fAGJ_@h@w@nAQZWb@GJINQVGJGHWd@UZOXCDOZYd@GLOKIPS`@QXS\\{@zAYf@EFEFEL[h@S\\Wf@ODo@dAGJ_@t@MZ"
+            }, 
+            "duration": {
+              "text": "11 mins", 
+              "value": 649
+            }, 
+            "end_location": {
+              "lat": 34.1321862, 
+              "lng": -118.3527395
+            }
+          }, 
+          {
+            "html_instructions": "Turn <b>right</b> onto <b>Universal Studios Blvd</b><div style=\"font-size:0.9em\">Destination will be on the right</div>", 
+            "distance": {
+              "text": "0.3 mi", 
+              "value": 446
+            }, 
+            "travel_mode": "WALKING", 
+            "maneuver": "turn-right", 
+            "start_location": {
+              "lat": 34.1321862, 
+              "lng": -118.3527395
+            }, 
+            "polyline": {
+              "points": "emioErwjqUSGWIICk@MSEMCc@Gc@Qe@SYQg@]MKYSMGENIGMKECGEUQSUGCUMECGCGCECICGCICICEAGCKACAGAIAEAG?IAGAQAYAG?I?IAK@O@MA@O"
+            }, 
+            "duration": {
+              "text": "7 mins", 
+              "value": 443
+            }, 
+            "end_location": {
+              "lat": 34.1358715, 
+              "lng": -118.3511178
+            }
           }
+        ], 
+        "duration": {
+          "text": "13 hours 48 mins", 
+          "value": 49699
+        }, 
+        "end_location": {
+          "lat": 34.1358715, 
+          "lng": -118.3511178
         }
-      ]
-    }
-  ], 
-  "status": "OK", 
-  "geocoded_waypoints": [
-    {
-      "place_id": "ChIJa147K9HX3IAR-lwiGIQv9i4", 
-      "geocoder_status": "OK", 
-      "types": [
-        "amusement_park", 
-        "establishment", 
-        "point_of_interest", 
-        "tourist_attraction"
-      ]
-    }, 
-    {
-      "place_id": "ChIJzzgyJU--woARcZqceSdQ3dM", 
-      "geocoder_status": "OK", 
-      "types": [
-        "amusement_park", 
-        "establishment", 
-        "point_of_interest", 
-        "tourist_attraction"
-      ]
-    }
-  ]
-}
+      }
+    ]
+  }
+]
